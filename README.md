@@ -76,8 +76,6 @@ The `.pbix` file is available in the [`PowerBI`](./PowerBI) folder.
 - Location tier plays a significant role, with certain tiers showing notably higher sales performance.
 - Consumer preference leans toward specific fat-content categories, indicating shifting buying behavior.
 
-*(Update this section with the exact figures and findings from your own analysis.)*
-
 ## 🔄 Project Workflow
 1. **Data Collection** – Gather raw Blinkit sales and outlet data.
 2. **Data Cleaning (SQL)** – Handle missing values, fix inconsistencies, and standardize fields.
