@@ -1,0 +1,1001 @@
+﻿Item_ID,Item_Name,Category,Brand,MRP,Pack_Size,Fat_Content,Shelf_Life_Days
+ITM0001,Everest Onion,Fruits & Vegetables,Everest,61.08,500 g,N/A,180
+ITM0002,Tata Oats,Dairy & Breakfast,Tata,342.08,100 g,Regular,180
+ITM0003,Fortune Trail Mix,Snacks & Munchies,Fortune,73.05,200 g,N/A,30
+ITM0004,Himalaya Packaged Juice,Beverages,Himalaya,135.9,500 g,N/A,30
+ITM0005,Parle Poha,Staples,Parle,350.57,250 g,N/A,2
+ITM0006,Colgate Sunscreen,Personal Care,Colgate,302.67,200 g,N/A,30
+ITM0007,Nestle Glass Cleaner,Home Care,Nestle,316.87,2 L,N/A,180
+ITM0008,Britannia Pastry,Bakery,Britannia,127.35,1 kg,N/A,7
+ITM0009,MTR Frozen Peas,Frozen & Instant Food,MTR,310.67,6 pcs,N/A,365
+ITM0010,HUL Baby Food,Baby Care,HUL,359.32,100 g,N/A,7
+ITM0011,Parle Earphones,Stationery & Electronics,Parle,443.86,200 g,N/A,7
+ITM0012,Cadbury Pet Shampoo,Pet Care,Cadbury,307.32,200 g,N/A,180
+ITM0013,Nestle Papaya,Fruits & Vegetables,Nestle,102.39,250 g,N/A,365
+ITM0014,Dabur Oats,Dairy & Breakfast,Dabur,118.71,250 g,Regular,7
+ITM0015,Britannia Rusk,Snacks & Munchies,Britannia,11.03,12 pcs,N/A,180
+ITM0016,Parle Lemonade,Beverages,Parle,160.53,6 pcs,N/A,90
+ITM0017,Mother Dairy Besan,Staples,Mother Dairy,118.29,250 g,N/A,180
+ITM0018,Cadbury Toothpaste,Personal Care,Cadbury,276.09,1 kg,N/A,180
+ITM0019,Local Brand Garbage Bags,Home Care,Local Brand,211.61,100 g,N/A,30
+ITM0020,Local Brand Croissant,Bakery,Local Brand,120.44,100 g,N/A,7
+ITM0021,Haldiram's Frozen Paratha,Frozen & Instant Food,Haldiram's,348.69,100 g,N/A,2
+ITM0022,Surf Excel Baby Wipes,Baby Care,Surf Excel,305.52,250 g,N/A,180
+ITM0023,Mother Dairy Notebook,Stationery & Electronics,Mother Dairy,711.99,2 L,N/A,30
+ITM0024,Haldiram's Pet Shampoo,Pet Care,Haldiram's,166.83,12 pcs,N/A,2
+ITM0025,Nestle Onion,Fruits & Vegetables,Nestle,90.85,6 pcs,N/A,7
+ITM0026,Himalaya Eggs,Dairy & Breakfast,Himalaya,74.5,1 kg,Low Fat,30
+ITM0027,Britannia Banana Chips,Snacks & Munchies,Britannia,52.21,500 g,N/A,90
+ITM0028,Dabur Soda,Beverages,Dabur,35.78,500 g,N/A,365
+ITM0029,Dabur Wheat Atta,Staples,Dabur,431.84,2 L,N/A,30
+ITM0030,Pedigree Hair Oil,Personal Care,Pedigree,361.5,250 g,N/A,30
+ITM0031,MTR Glass Cleaner,Home Care,MTR,69.88,250 g,N/A,365
+ITM0032,Parle Cookies,Bakery,Parle,66.54,6 pcs,N/A,90
+ITM0033,Fortune Frozen Paratha,Frozen & Instant Food,Fortune,349.81,200 g,N/A,180
+ITM0034,MTR Baby Shampoo,Baby Care,MTR,402.47,250 g,N/A,90
+ITM0035,Nestle Batteries,Stationery & Electronics,Nestle,103.47,1 pc,N/A,30
+ITM0036,Amul Pet Treats,Pet Care,Amul,336.88,200 g,N/A,7
+ITM0037,Cadbury Spinach,Fruits & Vegetables,Cadbury,76.7,100 g,N/A,7
+ITM0038,Himalaya Butter,Dairy & Breakfast,Himalaya,213.84,1 kg,Low Fat,90
+ITM0039,Amul Popcorn,Snacks & Munchies,Amul,144.2,500 g,N/A,180
+ITM0040,Nestle Instant Coffee,Beverages,Nestle,107.6,100 g,N/A,90
+ITM0041,Himalaya Cooking Oil,Staples,Himalaya,360.17,1 kg,N/A,30
+ITM0042,Pedigree Razor,Personal Care,Pedigree,258.27,250 g,N/A,30
+ITM0043,Amul Detergent Powder,Home Care,Amul,296.15,100 g,N/A,7
+ITM0044,HUL Bread Sticks,Bakery,HUL,44.97,1 kg,N/A,180
+ITM0045,Patanjali Frozen Peas,Frozen & Instant Food,Patanjali,280.8,6 pcs,N/A,180
+ITM0046,HUL Baby Lotion,Baby Care,HUL,741.21,100 g,N/A,7
+ITM0047,Amul Pen Set,Stationery & Electronics,Amul,512.72,1 kg,N/A,365
+ITM0048,Parle Cat Food,Pet Care,Parle,244.91,12 pcs,N/A,365
+ITM0049,Patanjali Lemon,Fruits & Vegetables,Patanjali,69.08,2 L,N/A,365
+ITM0050,Britannia Butter,Dairy & Breakfast,Britannia,39.6,200 g,Low Fat,365
+ITM0051,Britannia Chocolate Bar,Snacks & Munchies,Britannia,114.81,2 L,N/A,365
+ITM0052,Surf Excel Mineral Water,Beverages,Surf Excel,113.39,1 kg,N/A,180
+ITM0053,HUL Sugar,Staples,HUL,249.25,1 pc,N/A,2
+ITM0054,MTR Hair Oil,Personal Care,MTR,154.98,100 g,N/A,7
+ITM0055,Amul Scrub Pad,Home Care,Amul,297.64,200 g,N/A,7
+ITM0056,Britannia Muffin,Bakery,Britannia,157.86,6 pcs,N/A,7
+ITM0057,Patanjali Frozen Nuggets,Frozen & Instant Food,Patanjali,322.09,250 g,N/A,365
+ITM0058,Fortune Baby Shampoo,Baby Care,Fortune,200.73,2 L,N/A,7
+ITM0059,Patanjali Notebook,Stationery & Electronics,Patanjali,619.56,200 g,N/A,7
+ITM0060,Fortune Cat Food,Pet Care,Fortune,441.02,6 pcs,N/A,7
+ITM0061,Surf Excel Capsicum,Fruits & Vegetables,Surf Excel,90.12,12 pcs,N/A,180
+ITM0062,ITC Yogurt,Dairy & Breakfast,ITC,65.22,1 pc,Regular,30
+ITM0063,HUL Chikki,Snacks & Munchies,HUL,78.4,1 kg,N/A,365
+ITM0064,Fortune Soda,Beverages,Fortune,186.47,250 g,N/A,2
+ITM0065,Mother Dairy Moong Dal,Staples,Mother Dairy,395.03,12 pcs,N/A,7
+ITM0066,MTR Toothpaste,Personal Care,MTR,436.49,500 g,N/A,90
+ITM0067,Himalaya Floor Cleaner,Home Care,Himalaya,289.35,500 g,N/A,180
+ITM0068,Colgate Bun,Bakery,Colgate,45.1,100 g,N/A,365
+ITM0069,Everest Frozen Paratha,Frozen & Instant Food,Everest,131.42,500 g,N/A,90
+ITM0070,Himalaya Baby Shampoo,Baby Care,Himalaya,522.18,12 pcs,N/A,30
+ITM0071,Dabur Notebook,Stationery & Electronics,Dabur,400.52,200 g,N/A,365
+ITM0072,Patanjali Pet Shampoo,Pet Care,Patanjali,208.88,1 kg,N/A,7
+ITM0073,MTR Beans,Fruits & Vegetables,MTR,100.74,2 L,N/A,2
+ITM0074,Parle Curd,Dairy & Breakfast,Parle,72.51,1 pc,Low Fat,30
+ITM0075,Himalaya Rusk,Snacks & Munchies,Himalaya,138.94,200 g,N/A,7
+ITM0076,Patanjali Packaged Juice,Beverages,Patanjali,47.65,1 kg,N/A,2
+ITM0077,MTR Wheat Atta,Staples,MTR,137.8,100 g,N/A,2
+ITM0078,Mother Dairy Hand Sanitizer,Personal Care,Mother Dairy,322.29,12 pcs,N/A,30
+ITM0079,Pedigree Toilet Cleaner,Home Care,Pedigree,311.25,1 kg,N/A,365
+ITM0080,Amul Croissant,Bakery,Amul,61.74,2 L,N/A,7
+ITM0081,Local Brand Instant Noodles,Frozen & Instant Food,Local Brand,195.69,1 pc,N/A,2
+ITM0082,Dabur Diapers,Baby Care,Dabur,466.63,2 L,N/A,365
+ITM0083,ITC Notebook,Stationery & Electronics,ITC,834.61,100 g,N/A,2
+ITM0084,Colgate Pet Treats,Pet Care,Colgate,549.38,250 g,N/A,365
+ITM0085,Mother Dairy Beans,Fruits & Vegetables,Mother Dairy,82.46,12 pcs,N/A,180
+ITM0086,ITC Ghee,Dairy & Breakfast,ITC,199.22,250 g,Regular,365
+ITM0087,Parle Rusk,Snacks & Munchies,Parle,63.91,6 pcs,N/A,30
+ITM0088,Nestle Soda,Beverages,Nestle,106.02,200 g,N/A,30
+ITM0089,Tata Moong Dal,Staples,Tata,245.81,1 kg,N/A,30
+ITM0090,Haldiram's Hand Sanitizer,Personal Care,Haldiram's,324.3,500 g,N/A,30
+ITM0091,Himalaya Glass Cleaner,Home Care,Himalaya,324.07,12 pcs,N/A,30
+ITM0092,Parle Bun,Bakery,Parle,215.17,1 kg,N/A,180
+ITM0093,Colgate Instant Noodles,Frozen & Instant Food,Colgate,236.45,6 pcs,N/A,30
+ITM0094,Britannia Baby Powder,Baby Care,Britannia,241.68,6 pcs,N/A,180
+ITM0095,Surf Excel Earphones,Stationery & Electronics,Surf Excel,144.93,2 L,N/A,2
+ITM0096,Local Brand Pet Shampoo,Pet Care,Local Brand,123.94,6 pcs,N/A,365
+ITM0097,ITC Cabbage,Fruits & Vegetables,ITC,115.68,200 g,N/A,90
+ITM0098,Haldiram's Yogurt,Dairy & Breakfast,Haldiram's,283.41,12 pcs,Regular,30
+ITM0099,MTR Chikki,Snacks & Munchies,MTR,23.31,1 pc,N/A,90
+ITM0100,Britannia Packaged Juice,Beverages,Britannia,121.69,100 g,N/A,90
+ITM0101,Cadbury Besan,Staples,Cadbury,467.8,1 kg,N/A,180
+ITM0102,Parle Razor,Personal Care,Parle,289.84,200 g,N/A,7
+ITM0103,Everest Scrub Pad,Home Care,Everest,67.19,200 g,N/A,180
+ITM0104,Haldiram's Muffin,Bakery,Haldiram's,198.09,200 g,N/A,30
+ITM0105,MTR Frozen Fries,Frozen & Instant Food,MTR,316.89,2 L,N/A,30
+ITM0106,Dabur Baby Lotion,Baby Care,Dabur,320.11,250 g,N/A,7
+ITM0107,Nestle Pen Set,Stationery & Electronics,Nestle,410.98,2 L,N/A,30
+ITM0108,MTR Dog Food,Pet Care,MTR,367.56,2 L,N/A,180
+ITM0109,Local Brand Grapes,Fruits & Vegetables,Local Brand,54.52,1 kg,N/A,365
+ITM0110,MTR Toned Milk,Dairy & Breakfast,MTR,334.14,500 g,Low Fat,365
+ITM0111,Local Brand Rusk,Snacks & Munchies,Local Brand,27.07,1 kg,N/A,180
+ITM0112,Fortune Tea Bags,Beverages,Fortune,101.78,100 g,N/A,365
+ITM0113,Patanjali Cooking Oil,Staples,Patanjali,296.79,250 g,N/A,30
+ITM0114,Fortune Hand Sanitizer,Personal Care,Fortune,362.52,2 L,N/A,7
+ITM0115,Pedigree Toilet Cleaner,Home Care,Pedigree,312.55,6 pcs,N/A,365
+ITM0116,Amul Rusk,Bakery,Amul,249.79,100 g,N/A,180
+ITM0117,Cadbury Instant Noodles,Frozen & Instant Food,Cadbury,81.65,6 pcs,N/A,2
+ITM0118,Tata Feeding Bottle,Baby Care,Tata,200.12,250 g,N/A,180
+ITM0119,Britannia LED Bulb,Stationery & Electronics,Britannia,822.26,250 g,N/A,2
+ITM0120,Amul Pet Shampoo,Pet Care,Amul,106.86,100 g,N/A,90
+ITM0121,Colgate Beans,Fruits & Vegetables,Colgate,40.05,250 g,N/A,2
+ITM0122,Cadbury Oats,Dairy & Breakfast,Cadbury,326.53,12 pcs,Low Fat,180
+ITM0123,Colgate Trail Mix,Snacks & Munchies,Colgate,15.62,12 pcs,N/A,7
+ITM0124,ITC Packaged Juice,Beverages,ITC,110.82,1 kg,N/A,90
+ITM0125,Nestle Sooji,Staples,Nestle,126.92,12 pcs,N/A,180
+ITM0126,Britannia Shampoo,Personal Care,Britannia,158.3,100 g,N/A,365
+ITM0127,MTR Glass Cleaner,Home Care,MTR,56.9,1 pc,N/A,90
+ITM0128,Amul Cake,Bakery,Amul,223.35,1 kg,N/A,7
+ITM0129,Dabur Frozen Fries,Frozen & Instant Food,Dabur,114.24,100 g,N/A,365
+ITM0130,Parle Baby Powder,Baby Care,Parle,648.86,250 g,N/A,90
+ITM0131,Haldiram's Batteries,Stationery & Electronics,Haldiram's,853.04,200 g,N/A,30
+ITM0132,Mother Dairy Cat Food,Pet Care,Mother Dairy,443.88,250 g,N/A,365
+ITM0133,Britannia Lemon,Fruits & Vegetables,Britannia,68.38,200 g,N/A,30
+ITM0134,Parle Oats,Dairy & Breakfast,Parle,63.75,2 L,Low Fat,30
+ITM0135,HUL Namkeen Mix,Snacks & Munchies,HUL,69.91,12 pcs,N/A,90
+ITM0136,Pedigree Soda,Beverages,Pedigree,93.58,500 g,N/A,7
+ITM0137,Mother Dairy Chana,Staples,Mother Dairy,217.54,2 L,N/A,30
+ITM0138,Parle Shampoo,Personal Care,Parle,140.24,1 kg,N/A,90
+ITM0139,Mother Dairy Toilet Cleaner,Home Care,Mother Dairy,257.62,1 kg,N/A,180
+ITM0140,Local Brand Muffin,Bakery,Local Brand,201.11,250 g,N/A,90
+ITM0141,Haldiram's Instant Noodles,Frozen & Instant Food,Haldiram's,269.1,1 kg,N/A,90
+ITM0142,Colgate Baby Food,Baby Care,Colgate,720.48,6 pcs,N/A,365
+ITM0143,Fortune LED Bulb,Stationery & Electronics,Fortune,482.64,250 g,N/A,30
+ITM0144,Fortune Pet Treats,Pet Care,Fortune,336.95,12 pcs,N/A,7
+ITM0145,Nestle Onion,Fruits & Vegetables,Nestle,103.41,12 pcs,N/A,30
+ITM0146,Mother Dairy Toned Milk,Dairy & Breakfast,Mother Dairy,81.22,500 g,Regular,180
+ITM0147,Himalaya Popcorn,Snacks & Munchies,Himalaya,125.8,100 g,N/A,365
+ITM0148,Dabur Instant Coffee,Beverages,Dabur,47.65,250 g,N/A,7
+ITM0149,Fortune Moong Dal,Staples,Fortune,576.72,500 g,N/A,365
+ITM0150,Everest Hand Sanitizer,Personal Care,Everest,174.38,6 pcs,N/A,180
+ITM0151,Everest Mop,Home Care,Everest,238.68,500 g,N/A,2
+ITM0152,Tata Muffin,Bakery,Tata,140.77,1 kg,N/A,7
+ITM0153,Haldiram's Instant Noodles,Frozen & Instant Food,Haldiram's,396.2,12 pcs,N/A,90
+ITM0154,Colgate Baby Wipes,Baby Care,Colgate,793.23,1 pc,N/A,30
+ITM0155,Colgate Notebook,Stationery & Electronics,Colgate,99.64,500 g,N/A,180
+ITM0156,Haldiram's Dog Food,Pet Care,Haldiram's,324.05,2 L,N/A,7
+ITM0157,Tata Potato,Fruits & Vegetables,Tata,19.69,2 L,N/A,7
+ITM0158,Patanjali Paneer,Dairy & Breakfast,Patanjali,184.31,2 L,Regular,90
+ITM0159,Nestle Potato Chips,Snacks & Munchies,Nestle,44.11,12 pcs,N/A,90
+ITM0160,Mother Dairy Buttermilk,Beverages,Mother Dairy,140.64,1 pc,N/A,180
+ITM0161,Nestle Moong Dal,Staples,Nestle,245.3,6 pcs,N/A,30
+ITM0162,Himalaya Razor,Personal Care,Himalaya,243.03,12 pcs,N/A,180
+ITM0163,Surf Excel Mop,Home Care,Surf Excel,196.49,500 g,N/A,90
+ITM0164,ITC Bread Sticks,Bakery,ITC,98.34,12 pcs,N/A,90
+ITM0165,Fortune Frozen Nuggets,Frozen & Instant Food,Fortune,86.74,100 g,N/A,365
+ITM0166,Local Brand Baby Food,Baby Care,Local Brand,224.25,1 pc,N/A,30
+ITM0167,Britannia USB Cable,Stationery & Electronics,Britannia,51.6,1 pc,N/A,30
+ITM0168,Haldiram's Pet Treats,Pet Care,Haldiram's,391.21,250 g,N/A,2
+ITM0169,Patanjali Carrot,Fruits & Vegetables,Patanjali,88.82,1 kg,N/A,365
+ITM0170,Colgate Cheese Slices,Dairy & Breakfast,Colgate,180.19,1 pc,Regular,365
+ITM0171,Fortune Trail Mix,Snacks & Munchies,Fortune,144.85,6 pcs,N/A,180
+ITM0172,Surf Excel Instant Coffee,Beverages,Surf Excel,40.54,1 kg,N/A,30
+ITM0173,Local Brand Sooji,Staples,Local Brand,406.3,1 kg,N/A,365
+ITM0174,Pedigree Toothpaste,Personal Care,Pedigree,165.29,12 pcs,N/A,180
+ITM0175,Local Brand Glass Cleaner,Home Care,Local Brand,78.4,500 g,N/A,2
+ITM0176,Everest Croissant,Bakery,Everest,132.63,12 pcs,N/A,90
+ITM0177,HUL Momos,Frozen & Instant Food,HUL,194.05,2 L,N/A,180
+ITM0178,Nestle Baby Powder,Baby Care,Nestle,488.82,1 kg,N/A,365
+ITM0179,Haldiram's LED Bulb,Stationery & Electronics,Haldiram's,62.16,12 pcs,N/A,30
+ITM0180,Amul Pet Treats,Pet Care,Amul,136.83,2 L,N/A,180
+ITM0181,Cadbury Cauliflower,Fruits & Vegetables,Cadbury,105.87,6 pcs,N/A,180
+ITM0182,Colgate Bread,Dairy & Breakfast,Colgate,40.91,2 L,Low Fat,90
+ITM0183,Surf Excel Biscuits,Snacks & Munchies,Surf Excel,10.63,2 L,N/A,180
+ITM0184,Fortune Tea Bags,Beverages,Fortune,92.24,100 g,N/A,365
+ITM0185,Cadbury Moong Dal,Staples,Cadbury,173.09,500 g,N/A,30
+ITM0186,Everest Sunscreen,Personal Care,Everest,169.58,12 pcs,N/A,90
+ITM0187,Dabur Air Freshener,Home Care,Dabur,125.2,1 kg,N/A,7
+ITM0188,Cadbury Bread Sticks,Bakery,Cadbury,98.64,100 g,N/A,180
+ITM0189,Colgate Ready-to-eat Meal,Frozen & Instant Food,Colgate,399.56,1 pc,N/A,30
+ITM0190,Fortune Baby Food,Baby Care,Fortune,502.41,200 g,N/A,365
+ITM0191,MTR LED Bulb,Stationery & Electronics,MTR,547.84,100 g,N/A,365
+ITM0192,Tata Cat Food,Pet Care,Tata,149.87,1 kg,N/A,30
+ITM0193,Nestle Onion,Fruits & Vegetables,Nestle,36.21,1 kg,N/A,90
+ITM0194,Pedigree Toned Milk,Dairy & Breakfast,Pedigree,136.57,1 pc,Low Fat,365
+ITM0195,Pedigree Chocolate Bar,Snacks & Munchies,Pedigree,85.72,6 pcs,N/A,30
+ITM0196,Surf Excel Energy Drink,Beverages,Surf Excel,62.32,1 pc,N/A,365
+ITM0197,HUL Sugar,Staples,HUL,455.7,1 kg,N/A,90
+ITM0198,Cadbury Body Lotion,Personal Care,Cadbury,169.75,12 pcs,N/A,30
+ITM0199,Britannia Detergent Powder,Home Care,Britannia,311.04,200 g,N/A,30
+ITM0200,Mother Dairy Cake,Bakery,Mother Dairy,202.15,1 pc,N/A,30
+ITM0201,Surf Excel Frozen Nuggets,Frozen & Instant Food,Surf Excel,398.15,1 kg,N/A,180
+ITM0202,Colgate Baby Wipes,Baby Care,Colgate,731.79,250 g,N/A,7
+ITM0203,Britannia LED Bulb,Stationery & Electronics,Britannia,118.65,1 pc,N/A,180
+ITM0204,Pedigree Cat Food,Pet Care,Pedigree,346.62,2 L,N/A,2
+ITM0205,Himalaya Carrot,Fruits & Vegetables,Himalaya,25.82,2 L,N/A,2
+ITM0206,Tata Toned Milk,Dairy & Breakfast,Tata,46.3,2 L,Low Fat,90
+ITM0207,HUL Trail Mix,Snacks & Munchies,HUL,17.13,12 pcs,N/A,30
+ITM0208,Everest Packaged Juice,Beverages,Everest,145.67,100 g,N/A,7
+ITM0209,HUL Chana,Staples,HUL,260.71,250 g,N/A,2
+ITM0210,Patanjali Hand Sanitizer,Personal Care,Patanjali,395.11,200 g,N/A,2
+ITM0211,Fortune Floor Cleaner,Home Care,Fortune,191.75,100 g,N/A,30
+ITM0212,Mother Dairy Rusk,Bakery,Mother Dairy,213.48,12 pcs,N/A,30
+ITM0213,HUL Instant Noodles,Frozen & Instant Food,HUL,134.87,2 L,N/A,180
+ITM0214,HUL Baby Shampoo,Baby Care,HUL,331.52,250 g,N/A,365
+ITM0215,Amul Earphones,Stationery & Electronics,Amul,430.87,12 pcs,N/A,7
+ITM0216,Local Brand Pet Shampoo,Pet Care,Local Brand,151.87,100 g,N/A,365
+ITM0217,Amul Onion,Fruits & Vegetables,Amul,34.77,12 pcs,N/A,7
+ITM0218,MTR Toned Milk,Dairy & Breakfast,MTR,103.53,1 pc,Low Fat,90
+ITM0219,Cadbury Peanuts,Snacks & Munchies,Cadbury,10.66,12 pcs,N/A,365
+ITM0220,Local Brand Tea Bags,Beverages,Local Brand,49.29,2 L,N/A,365
+ITM0221,Patanjali Poha,Staples,Patanjali,554.52,250 g,N/A,90
+ITM0222,Local Brand Lip Balm,Personal Care,Local Brand,443.86,100 g,N/A,365
+ITM0223,ITC Toilet Cleaner,Home Care,ITC,287.76,250 g,N/A,90
+ITM0224,Tata Rusk,Bakery,Tata,115.23,1 pc,N/A,2
+ITM0225,Surf Excel Frozen Paratha,Frozen & Instant Food,Surf Excel,171.27,100 g,N/A,2
+ITM0226,Britannia Baby Powder,Baby Care,Britannia,607.63,12 pcs,N/A,180
+ITM0227,Colgate Batteries,Stationery & Electronics,Colgate,804.32,250 g,N/A,90
+ITM0228,ITC Dog Food,Pet Care,ITC,154.73,6 pcs,N/A,7
+ITM0229,Everest Cauliflower,Fruits & Vegetables,Everest,119.14,1 kg,N/A,2
+ITM0230,Amul Muesli,Dairy & Breakfast,Amul,347.75,1 pc,Regular,7
+ITM0231,Surf Excel Peanuts,Snacks & Munchies,Surf Excel,133.25,500 g,N/A,90
+ITM0232,Britannia Tea Bags,Beverages,Britannia,29.09,250 g,N/A,90
+ITM0233,Patanjali Wheat Atta,Staples,Patanjali,411.63,2 L,N/A,2
+ITM0234,Nestle Sunscreen,Personal Care,Nestle,142.51,1 pc,N/A,365
+ITM0235,Patanjali Phenyl,Home Care,Patanjali,229.34,200 g,N/A,30
+ITM0236,Everest Croissant,Bakery,Everest,186.93,6 pcs,N/A,90
+ITM0237,Everest Frozen Paratha,Frozen & Instant Food,Everest,394.2,200 g,N/A,90
+ITM0238,Himalaya Baby Food,Baby Care,Himalaya,657.22,100 g,N/A,90
+ITM0239,Haldiram's USB Cable,Stationery & Electronics,Haldiram's,111.84,6 pcs,N/A,30
+ITM0240,Britannia Pet Treats,Pet Care,Britannia,157.67,6 pcs,N/A,365
+ITM0241,Britannia Apple,Fruits & Vegetables,Britannia,35.95,2 L,N/A,365
+ITM0242,Tata Oats,Dairy & Breakfast,Tata,177.69,200 g,Regular,365
+ITM0243,Local Brand Trail Mix,Snacks & Munchies,Local Brand,82.38,500 g,N/A,180
+ITM0244,MTR Soda,Beverages,MTR,160.93,2 L,N/A,7
+ITM0245,Everest Besan,Staples,Everest,524.72,2 L,N/A,180
+ITM0246,Nestle Razor,Personal Care,Nestle,131.76,500 g,N/A,2
+ITM0247,Tata Glass Cleaner,Home Care,Tata,156.91,2 L,N/A,180
+ITM0248,Surf Excel Bread Sticks,Bakery,Surf Excel,110.76,1 pc,N/A,90
+ITM0249,Mother Dairy Frozen Paratha,Frozen & Instant Food,Mother Dairy,193.2,1 pc,N/A,90
+ITM0250,Himalaya Baby Powder,Baby Care,Himalaya,427.35,100 g,N/A,30
+ITM0251,Dabur Pen Set,Stationery & Electronics,Dabur,144.06,500 g,N/A,7
+ITM0252,Cadbury Cat Food,Pet Care,Cadbury,256.53,100 g,N/A,7
+ITM0253,Britannia Beans,Fruits & Vegetables,Britannia,94.12,100 g,N/A,365
+ITM0254,Patanjali Bread,Dairy & Breakfast,Patanjali,90.68,2 L,Low Fat,90
+ITM0255,Parle Potato Chips,Snacks & Munchies,Parle,46.32,200 g,N/A,90
+ITM0256,Nestle Cola,Beverages,Nestle,137.45,2 L,N/A,90
+ITM0257,ITC Rajma,Staples,ITC,181.36,200 g,N/A,180
+ITM0258,HUL Face Wash,Personal Care,HUL,410.66,12 pcs,N/A,365
+ITM0259,Pedigree Mop,Home Care,Pedigree,335.43,1 pc,N/A,7
+ITM0260,Himalaya Cake,Bakery,Himalaya,147.17,250 g,N/A,2
+ITM0261,Colgate Frozen Nuggets,Frozen & Instant Food,Colgate,265.86,500 g,N/A,7
+ITM0262,Nestle Baby Shampoo,Baby Care,Nestle,212.22,250 g,N/A,365
+ITM0263,Mother Dairy USB Cable,Stationery & Electronics,Mother Dairy,669.56,6 pcs,N/A,30
+ITM0264,Colgate Cat Food,Pet Care,Colgate,475.21,500 g,N/A,180
+ITM0265,Tata Tomato,Fruits & Vegetables,Tata,113.86,500 g,N/A,365
+ITM0266,MTR Curd,Dairy & Breakfast,MTR,110.98,100 g,Low Fat,7
+ITM0267,Cadbury Rusk,Snacks & Munchies,Cadbury,72.98,500 g,N/A,7
+ITM0268,MTR Buttermilk,Beverages,MTR,173.24,1 pc,N/A,30
+ITM0269,Fortune Rajma,Staples,Fortune,179.11,1 kg,N/A,7
+ITM0270,Britannia Face Wash,Personal Care,Britannia,426.01,100 g,N/A,180
+ITM0271,HUL Phenyl,Home Care,HUL,192.09,1 kg,N/A,90
+ITM0272,Fortune Bun,Bakery,Fortune,119.95,500 g,N/A,7
+ITM0273,Britannia Instant Noodles,Frozen & Instant Food,Britannia,218.71,2 L,N/A,365
+ITM0274,Britannia Baby Wipes,Baby Care,Britannia,488.09,2 L,N/A,30
+ITM0275,Surf Excel Pen Set,Stationery & Electronics,Surf Excel,133.49,100 g,N/A,365
+ITM0276,HUL Dog Food,Pet Care,HUL,396.23,100 g,N/A,30
+ITM0277,Fortune Mango,Fruits & Vegetables,Fortune,34.66,1 kg,N/A,365
+ITM0278,Colgate Curd,Dairy & Breakfast,Colgate,266.02,500 g,Low Fat,7
+ITM0279,Himalaya Rusk,Snacks & Munchies,Himalaya,57.79,1 pc,N/A,30
+ITM0280,Nestle Cola,Beverages,Nestle,132.09,12 pcs,N/A,180
+ITM0281,Everest Moong Dal,Staples,Everest,158.69,200 g,N/A,30
+ITM0282,Patanjali Lip Balm,Personal Care,Patanjali,50.92,1 pc,N/A,365
+ITM0283,Patanjali Detergent Powder,Home Care,Patanjali,59.24,500 g,N/A,7
+ITM0284,Haldiram's Bun,Bakery,Haldiram's,165.43,200 g,N/A,30
+ITM0285,Himalaya Instant Noodles,Frozen & Instant Food,Himalaya,161.7,500 g,N/A,90
+ITM0286,HUL Baby Lotion,Baby Care,HUL,519.79,1 pc,N/A,90
+ITM0287,Pedigree Batteries,Stationery & Electronics,Pedigree,328.16,1 pc,N/A,180
+ITM0288,Pedigree Dog Food,Pet Care,Pedigree,100.93,12 pcs,N/A,30
+ITM0289,Surf Excel Spinach,Fruits & Vegetables,Surf Excel,93.71,250 g,N/A,90
+ITM0290,Everest Muesli,Dairy & Breakfast,Everest,123.31,1 pc,Low Fat,30
+ITM0291,MTR Chikki,Snacks & Munchies,MTR,66.44,6 pcs,N/A,90
+ITM0292,MTR Packaged Juice,Beverages,MTR,111.61,6 pcs,N/A,30
+ITM0293,Britannia Rajma,Staples,Britannia,231.72,1 pc,N/A,30
+ITM0294,Haldiram's Razor,Personal Care,Haldiram's,100.32,12 pcs,N/A,180
+ITM0295,ITC Dishwash Liquid,Home Care,ITC,245.5,1 pc,N/A,2
+ITM0296,HUL Bread Sticks,Bakery,HUL,65.5,200 g,N/A,365
+ITM0297,Everest Frozen Nuggets,Frozen & Instant Food,Everest,283.75,250 g,N/A,7
+ITM0298,Patanjali Feeding Bottle,Baby Care,Patanjali,197.06,250 g,N/A,180
+ITM0299,Himalaya Pen Set,Stationery & Electronics,Himalaya,206.19,2 L,N/A,90
+ITM0300,MTR Pet Shampoo,Pet Care,MTR,575.52,1 pc,N/A,30
+ITM0301,HUL Capsicum,Fruits & Vegetables,HUL,48.65,1 pc,N/A,365
+ITM0302,Dabur Cornflakes,Dairy & Breakfast,Dabur,247.76,1 kg,Low Fat,30
+ITM0303,Surf Excel Banana Chips,Snacks & Munchies,Surf Excel,95.43,500 g,N/A,365
+ITM0304,Colgate Instant Coffee,Beverages,Colgate,78,12 pcs,N/A,90
+ITM0305,Parle Sooji,Staples,Parle,394.03,12 pcs,N/A,7
+ITM0306,Haldiram's Face Wash,Personal Care,Haldiram's,419.55,2 L,N/A,365
+ITM0307,Pedigree Scrub Pad,Home Care,Pedigree,270.95,2 L,N/A,180
+ITM0308,ITC Pastry,Bakery,ITC,124.98,1 kg,N/A,7
+ITM0309,Local Brand Ice Cream,Frozen & Instant Food,Local Brand,151.26,250 g,N/A,90
+ITM0310,Dabur Baby Wipes,Baby Care,Dabur,253.2,500 g,N/A,365
+ITM0311,Surf Excel USB Cable,Stationery & Electronics,Surf Excel,175.9,500 g,N/A,30
+ITM0312,Parle Dog Food,Pet Care,Parle,516.37,12 pcs,N/A,7
+ITM0313,Everest Cauliflower,Fruits & Vegetables,Everest,27.15,200 g,N/A,365
+ITM0314,Patanjali Bread,Dairy & Breakfast,Patanjali,75.04,200 g,Low Fat,90
+ITM0315,Surf Excel Chocolate Bar,Snacks & Munchies,Surf Excel,147.31,2 L,N/A,2
+ITM0316,ITC Green Tea,Beverages,ITC,162.33,250 g,N/A,365
+ITM0317,Tata Sugar,Staples,Tata,102.63,1 pc,N/A,365
+ITM0318,Britannia Body Lotion,Personal Care,Britannia,219.4,1 kg,N/A,90
+ITM0319,Patanjali Garbage Bags,Home Care,Patanjali,242.33,6 pcs,N/A,365
+ITM0320,Pedigree Cake,Bakery,Pedigree,138.79,100 g,N/A,180
+ITM0321,ITC Frozen Peas,Frozen & Instant Food,ITC,161.41,2 L,N/A,90
+ITM0322,Haldiram's Baby Wipes,Baby Care,Haldiram's,135.99,500 g,N/A,30
+ITM0323,HUL Batteries,Stationery & Electronics,HUL,753.94,12 pcs,N/A,365
+ITM0324,Haldiram's Pet Treats,Pet Care,Haldiram's,247.2,250 g,N/A,365
+ITM0325,Britannia Cabbage,Fruits & Vegetables,Britannia,108.77,1 kg,N/A,7
+ITM0326,Surf Excel Cornflakes,Dairy & Breakfast,Surf Excel,56.23,250 g,Low Fat,90
+ITM0327,Nestle Popcorn,Snacks & Munchies,Nestle,17.39,250 g,N/A,30
+ITM0328,Surf Excel Cola,Beverages,Surf Excel,26.27,6 pcs,N/A,180
+ITM0329,Colgate Sooji,Staples,Colgate,134.08,100 g,N/A,365
+ITM0330,Patanjali Toothpaste,Personal Care,Patanjali,265.58,12 pcs,N/A,365
+ITM0331,Nestle Dishwash Liquid,Home Care,Nestle,162.29,1 kg,N/A,30
+ITM0332,HUL Muffin,Bakery,HUL,135.96,6 pcs,N/A,180
+ITM0333,Parle Frozen Fries,Frozen & Instant Food,Parle,178.77,500 g,N/A,7
+ITM0334,Local Brand Baby Wipes,Baby Care,Local Brand,183.24,6 pcs,N/A,2
+ITM0335,Britannia USB Cable,Stationery & Electronics,Britannia,182.55,100 g,N/A,30
+ITM0336,Cadbury Pet Treats,Pet Care,Cadbury,151.35,2 L,N/A,180
+ITM0337,Haldiram's Banana,Fruits & Vegetables,Haldiram's,56.26,200 g,N/A,365
+ITM0338,Pedigree Oats,Dairy & Breakfast,Pedigree,87.5,12 pcs,Regular,180
+ITM0339,Himalaya Biscuits,Snacks & Munchies,Himalaya,112.86,250 g,N/A,90
+ITM0340,Mother Dairy Lemonade,Beverages,Mother Dairy,169.14,500 g,N/A,2
+ITM0341,Fortune Sooji,Staples,Fortune,376.87,100 g,N/A,90
+ITM0342,Patanjali Body Lotion,Personal Care,Patanjali,217.46,250 g,N/A,365
+ITM0343,HUL Glass Cleaner,Home Care,HUL,159.46,1 pc,N/A,30
+ITM0344,Fortune Cookies,Bakery,Fortune,92.39,1 kg,N/A,180
+ITM0345,Colgate Ice Cream,Frozen & Instant Food,Colgate,50.37,100 g,N/A,7
+ITM0346,Surf Excel Baby Powder,Baby Care,Surf Excel,552.4,12 pcs,N/A,365
+ITM0347,Nestle Pen Set,Stationery & Electronics,Nestle,444.2,1 kg,N/A,365
+ITM0348,Nestle Cat Food,Pet Care,Nestle,191.89,1 kg,N/A,7
+ITM0349,HUL Capsicum,Fruits & Vegetables,HUL,37.48,6 pcs,N/A,2
+ITM0350,Tata Bread,Dairy & Breakfast,Tata,162.39,1 kg,Low Fat,7
+ITM0351,Surf Excel Banana Chips,Snacks & Munchies,Surf Excel,54.86,500 g,N/A,2
+ITM0352,Fortune Energy Drink,Beverages,Fortune,67.67,500 g,N/A,90
+ITM0353,Tata Cooking Oil,Staples,Tata,537.48,100 g,N/A,2
+ITM0354,Everest Lip Balm,Personal Care,Everest,96.13,100 g,N/A,90
+ITM0355,ITC Air Freshener,Home Care,ITC,304.24,2 L,N/A,365
+ITM0356,Cadbury Pastry,Bakery,Cadbury,249.24,1 kg,N/A,2
+ITM0357,Haldiram's Instant Noodles,Frozen & Instant Food,Haldiram's,163.38,1 kg,N/A,90
+ITM0358,Himalaya Feeding Bottle,Baby Care,Himalaya,219.24,12 pcs,N/A,365
+ITM0359,Parle USB Cable,Stationery & Electronics,Parle,459.49,250 g,N/A,30
+ITM0360,Colgate Pet Treats,Pet Care,Colgate,384.07,500 g,N/A,7
+ITM0361,HUL Lemon,Fruits & Vegetables,HUL,35.29,2 L,N/A,365
+ITM0362,Amul Curd,Dairy & Breakfast,Amul,141.57,1 pc,Regular,30
+ITM0363,Colgate Chocolate Bar,Snacks & Munchies,Colgate,139.75,1 pc,N/A,365
+ITM0364,Dabur Lemonade,Beverages,Dabur,79.27,250 g,N/A,90
+ITM0365,Dabur Cooking Oil,Staples,Dabur,408.9,1 kg,N/A,90
+ITM0366,HUL Hand Sanitizer,Personal Care,HUL,188.29,100 g,N/A,2
+ITM0367,HUL Toilet Cleaner,Home Care,HUL,264.17,200 g,N/A,30
+ITM0368,Tata Pastry,Bakery,Tata,149.41,6 pcs,N/A,30
+ITM0369,Fortune Frozen Nuggets,Frozen & Instant Food,Fortune,374.63,12 pcs,N/A,90
+ITM0370,Cadbury Diapers,Baby Care,Cadbury,136.8,1 pc,N/A,30
+ITM0371,ITC Extension Cord,Stationery & Electronics,ITC,533.71,2 L,N/A,2
+ITM0372,Amul Pet Shampoo,Pet Care,Amul,433.82,2 L,N/A,2
+ITM0373,HUL Capsicum,Fruits & Vegetables,HUL,104.48,6 pcs,N/A,90
+ITM0374,Parle Paneer,Dairy & Breakfast,Parle,26.78,1 pc,Regular,30
+ITM0375,Surf Excel Rusk,Snacks & Munchies,Surf Excel,62.23,12 pcs,N/A,30
+ITM0376,Cadbury Tea Bags,Beverages,Cadbury,159.48,200 g,N/A,90
+ITM0377,Fortune Toor Dal,Staples,Fortune,580.63,100 g,N/A,365
+ITM0378,Surf Excel Lip Balm,Personal Care,Surf Excel,287.71,200 g,N/A,365
+ITM0379,Dabur Garbage Bags,Home Care,Dabur,71.34,500 g,N/A,90
+ITM0380,Tata Pastry,Bakery,Tata,245.89,1 pc,N/A,90
+ITM0381,Haldiram's Momos,Frozen & Instant Food,Haldiram's,179.49,200 g,N/A,7
+ITM0382,Surf Excel Baby Food,Baby Care,Surf Excel,686.4,12 pcs,N/A,30
+ITM0383,HUL Batteries,Stationery & Electronics,HUL,790.67,100 g,N/A,90
+ITM0384,Fortune Dog Food,Pet Care,Fortune,438.87,1 kg,N/A,7
+ITM0385,Cadbury Lemon,Fruits & Vegetables,Cadbury,54.56,12 pcs,N/A,2
+ITM0386,Mother Dairy Cheese Slices,Dairy & Breakfast,Mother Dairy,194.73,1 kg,Regular,7
+ITM0387,Mother Dairy Biscuits,Snacks & Munchies,Mother Dairy,58.18,200 g,N/A,2
+ITM0388,Himalaya Tea Bags,Beverages,Himalaya,92.9,250 g,N/A,365
+ITM0389,Tata Poha,Staples,Tata,404.93,100 g,N/A,365
+ITM0390,Local Brand Sunscreen,Personal Care,Local Brand,221.61,200 g,N/A,2
+ITM0391,Tata Air Freshener,Home Care,Tata,348,1 kg,N/A,365
+ITM0392,Amul Muffin,Bakery,Amul,182.33,1 kg,N/A,365
+ITM0393,Dabur Frozen Paratha,Frozen & Instant Food,Dabur,377.56,100 g,N/A,365
+ITM0394,ITC Feeding Bottle,Baby Care,ITC,141.88,100 g,N/A,7
+ITM0395,MTR LED Bulb,Stationery & Electronics,MTR,826.7,1 kg,N/A,90
+ITM0396,Dabur Pet Shampoo,Pet Care,Dabur,311.41,2 L,N/A,365
+ITM0397,Patanjali Onion,Fruits & Vegetables,Patanjali,34.88,250 g,N/A,30
+ITM0398,Pedigree Paneer,Dairy & Breakfast,Pedigree,55.64,6 pcs,Regular,180
+ITM0399,Colgate Nachos,Snacks & Munchies,Colgate,146.63,1 pc,N/A,365
+ITM0400,Local Brand Buttermilk,Beverages,Local Brand,163.24,200 g,N/A,90
+ITM0401,Fortune Salt,Staples,Fortune,543.4,200 g,N/A,180
+ITM0402,Everest Lip Balm,Personal Care,Everest,232.56,1 kg,N/A,30
+ITM0403,Dabur Detergent Powder,Home Care,Dabur,161.37,200 g,N/A,2
+ITM0404,Mother Dairy Cake,Bakery,Mother Dairy,122.6,12 pcs,N/A,365
+ITM0405,Local Brand Frozen Nuggets,Frozen & Instant Food,Local Brand,62.31,250 g,N/A,7
+ITM0406,Patanjali Baby Wipes,Baby Care,Patanjali,253.09,2 L,N/A,90
+ITM0407,Himalaya Batteries,Stationery & Electronics,Himalaya,880.16,100 g,N/A,2
+ITM0408,Dabur Dog Food,Pet Care,Dabur,112.93,200 g,N/A,7
+ITM0409,Mother Dairy Potato,Fruits & Vegetables,Mother Dairy,110.81,250 g,N/A,90
+ITM0410,Everest Cornflakes,Dairy & Breakfast,Everest,285.19,200 g,Regular,365
+ITM0411,Local Brand Peanuts,Snacks & Munchies,Local Brand,58.71,2 L,N/A,2
+ITM0412,Tata Instant Coffee,Beverages,Tata,98.81,1 pc,N/A,30
+ITM0413,HUL Chana,Staples,HUL,342.67,6 pcs,N/A,7
+ITM0414,HUL Body Lotion,Personal Care,HUL,311.28,200 g,N/A,30
+ITM0415,Colgate Mop,Home Care,Colgate,263.79,250 g,N/A,7
+ITM0416,Himalaya Muffin,Bakery,Himalaya,63.22,12 pcs,N/A,90
+ITM0417,Fortune Frozen Peas,Frozen & Instant Food,Fortune,227.87,1 kg,N/A,30
+ITM0418,Pedigree Baby Wipes,Baby Care,Pedigree,440.4,1 kg,N/A,30
+ITM0419,Pedigree Earphones,Stationery & Electronics,Pedigree,545.87,100 g,N/A,7
+ITM0420,Local Brand Pet Shampoo,Pet Care,Local Brand,106.43,1 pc,N/A,90
+ITM0421,Parle Beans,Fruits & Vegetables,Parle,64.93,2 L,N/A,2
+ITM0422,Colgate Yogurt,Dairy & Breakfast,Colgate,235.66,6 pcs,Regular,30
+ITM0423,Local Brand Nachos,Snacks & Munchies,Local Brand,129.87,6 pcs,N/A,30
+ITM0424,Haldiram's Soda,Beverages,Haldiram's,140.93,1 pc,N/A,365
+ITM0425,Dabur Sooji,Staples,Dabur,278.05,1 pc,N/A,90
+ITM0426,Amul Hair Oil,Personal Care,Amul,233.88,6 pcs,N/A,7
+ITM0427,MTR Garbage Bags,Home Care,MTR,80.66,500 g,N/A,90
+ITM0428,ITC Cookies,Bakery,ITC,225.78,6 pcs,N/A,30
+ITM0429,ITC Ice Cream,Frozen & Instant Food,ITC,384.62,12 pcs,N/A,7
+ITM0430,Dabur Baby Wipes,Baby Care,Dabur,470.57,250 g,N/A,365
+ITM0431,Everest LED Bulb,Stationery & Electronics,Everest,646.1,12 pcs,N/A,30
+ITM0432,Everest Dog Food,Pet Care,Everest,156.66,1 kg,N/A,30
+ITM0433,HUL Apple,Fruits & Vegetables,HUL,28.36,6 pcs,N/A,180
+ITM0434,ITC Cornflakes,Dairy & Breakfast,ITC,181.37,100 g,Low Fat,180
+ITM0435,ITC Trail Mix,Snacks & Munchies,ITC,72.75,12 pcs,N/A,365
+ITM0436,Tata Mineral Water,Beverages,Tata,84.95,200 g,N/A,90
+ITM0437,HUL Toor Dal,Staples,HUL,174.92,500 g,N/A,180
+ITM0438,HUL Toothpaste,Personal Care,HUL,159.12,500 g,N/A,30
+ITM0439,MTR Floor Cleaner,Home Care,MTR,154.47,250 g,N/A,7
+ITM0440,Everest Croissant,Bakery,Everest,233.9,500 g,N/A,90
+ITM0441,Amul Ready-to-eat Meal,Frozen & Instant Food,Amul,399.59,12 pcs,N/A,90
+ITM0442,Surf Excel Baby Shampoo,Baby Care,Surf Excel,736.03,1 kg,N/A,90
+ITM0443,Everest LED Bulb,Stationery & Electronics,Everest,43.75,100 g,N/A,90
+ITM0444,Parle Cat Food,Pet Care,Parle,291.83,1 kg,N/A,90
+ITM0445,Local Brand Capsicum,Fruits & Vegetables,Local Brand,26.41,12 pcs,N/A,7
+ITM0446,Everest Paneer,Dairy & Breakfast,Everest,300.55,6 pcs,Regular,365
+ITM0447,Surf Excel Namkeen Mix,Snacks & Munchies,Surf Excel,54.01,200 g,N/A,30
+ITM0448,Colgate Instant Coffee,Beverages,Colgate,188.98,1 pc,N/A,30
+ITM0449,Mother Dairy Chana,Staples,Mother Dairy,205.93,200 g,N/A,7
+ITM0450,MTR Toothpaste,Personal Care,MTR,429.72,100 g,N/A,30
+ITM0451,Colgate Dishwash Liquid,Home Care,Colgate,251.21,6 pcs,N/A,7
+ITM0452,Tata Cookies,Bakery,Tata,80.88,12 pcs,N/A,365
+ITM0453,ITC Frozen Nuggets,Frozen & Instant Food,ITC,287.2,2 L,N/A,7
+ITM0454,Pedigree Baby Lotion,Baby Care,Pedigree,775.16,250 g,N/A,30
+ITM0455,Haldiram's Notebook,Stationery & Electronics,Haldiram's,406.29,6 pcs,N/A,180
+ITM0456,Local Brand Cat Food,Pet Care,Local Brand,276.73,6 pcs,N/A,365
+ITM0457,Tata Watermelon,Fruits & Vegetables,Tata,15.45,1 pc,N/A,365
+ITM0458,Surf Excel Cornflakes,Dairy & Breakfast,Surf Excel,92.6,100 g,Regular,365
+ITM0459,Everest Nachos,Snacks & Munchies,Everest,65.33,100 g,N/A,180
+ITM0460,Dabur Packaged Juice,Beverages,Dabur,53.99,200 g,N/A,30
+ITM0461,Haldiram's Toor Dal,Staples,Haldiram's,522.62,1 kg,N/A,90
+ITM0462,Cadbury Hair Oil,Personal Care,Cadbury,443.19,200 g,N/A,30
+ITM0463,Tata Air Freshener,Home Care,Tata,116.22,2 L,N/A,180
+ITM0464,Everest Cake,Bakery,Everest,42.49,500 g,N/A,7
+ITM0465,Britannia Ready-to-eat Meal,Frozen & Instant Food,Britannia,212.34,200 g,N/A,30
+ITM0466,Everest Baby Wipes,Baby Care,Everest,735.32,1 kg,N/A,30
+ITM0467,Local Brand LED Bulb,Stationery & Electronics,Local Brand,251.61,250 g,N/A,7
+ITM0468,Himalaya Dog Food,Pet Care,Himalaya,289.06,2 L,N/A,365
+ITM0469,Local Brand Apple,Fruits & Vegetables,Local Brand,18.69,500 g,N/A,7
+ITM0470,Local Brand Yogurt,Dairy & Breakfast,Local Brand,279.44,200 g,Low Fat,365
+ITM0471,Surf Excel Peanuts,Snacks & Munchies,Surf Excel,128.77,100 g,N/A,2
+ITM0472,Surf Excel Mineral Water,Beverages,Surf Excel,75.04,12 pcs,N/A,90
+ITM0473,Everest Besan,Staples,Everest,111.84,200 g,N/A,365
+ITM0474,ITC Hair Oil,Personal Care,ITC,226.49,6 pcs,N/A,365
+ITM0475,Fortune Floor Cleaner,Home Care,Fortune,270.88,100 g,N/A,180
+ITM0476,Local Brand Pastry,Bakery,Local Brand,47.1,250 g,N/A,7
+ITM0477,Fortune Frozen Paratha,Frozen & Instant Food,Fortune,226.85,1 kg,N/A,30
+ITM0478,Colgate Baby Powder,Baby Care,Colgate,739.21,12 pcs,N/A,7
+ITM0479,MTR LED Bulb,Stationery & Electronics,MTR,619.84,250 g,N/A,7
+ITM0480,HUL Pet Shampoo,Pet Care,HUL,579.53,12 pcs,N/A,180
+ITM0481,Himalaya Papaya,Fruits & Vegetables,Himalaya,118.34,500 g,N/A,90
+ITM0482,Cadbury Bread,Dairy & Breakfast,Cadbury,345.65,1 kg,Low Fat,30
+ITM0483,Local Brand Namkeen Mix,Snacks & Munchies,Local Brand,49.77,12 pcs,N/A,180
+ITM0484,Dabur Soda,Beverages,Dabur,196.4,1 kg,N/A,30
+ITM0485,Tata Rajma,Staples,Tata,228.64,6 pcs,N/A,90
+ITM0486,Cadbury Face Wash,Personal Care,Cadbury,381.84,2 L,N/A,7
+ITM0487,Himalaya Dishwash Liquid,Home Care,Himalaya,214.69,6 pcs,N/A,90
+ITM0488,Nestle Bun,Bakery,Nestle,100.1,12 pcs,N/A,2
+ITM0489,Colgate Frozen Nuggets,Frozen & Instant Food,Colgate,380.8,500 g,N/A,2
+ITM0490,MTR Baby Food,Baby Care,MTR,280.33,1 kg,N/A,180
+ITM0491,MTR Extension Cord,Stationery & Electronics,MTR,217.85,12 pcs,N/A,90
+ITM0492,Everest Cat Food,Pet Care,Everest,207.76,12 pcs,N/A,2
+ITM0493,HUL Apple,Fruits & Vegetables,HUL,89.55,2 L,N/A,90
+ITM0494,MTR Bread,Dairy & Breakfast,MTR,197.77,100 g,Low Fat,30
+ITM0495,Local Brand Potato Chips,Snacks & Munchies,Local Brand,38.21,100 g,N/A,365
+ITM0496,Nestle Buttermilk,Beverages,Nestle,124.15,500 g,N/A,7
+ITM0497,Pedigree Sugar,Staples,Pedigree,545.62,6 pcs,N/A,30
+ITM0498,Colgate Lip Balm,Personal Care,Colgate,134.71,200 g,N/A,2
+ITM0499,ITC Floor Cleaner,Home Care,ITC,62.1,100 g,N/A,2
+ITM0500,Amul Bread Sticks,Bakery,Amul,210.27,200 g,N/A,90
+ITM0501,Everest Frozen Peas,Frozen & Instant Food,Everest,270.82,500 g,N/A,90
+ITM0502,Haldiram's Feeding Bottle,Baby Care,Haldiram's,598.92,1 kg,N/A,30
+ITM0503,HUL Batteries,Stationery & Electronics,HUL,436.86,100 g,N/A,180
+ITM0504,Everest Dog Food,Pet Care,Everest,159.84,250 g,N/A,7
+ITM0505,Colgate Papaya,Fruits & Vegetables,Colgate,49.67,2 L,N/A,365
+ITM0506,Surf Excel Ghee,Dairy & Breakfast,Surf Excel,273.63,100 g,Low Fat,7
+ITM0507,Parle Popcorn,Snacks & Munchies,Parle,137.37,6 pcs,N/A,30
+ITM0508,Mother Dairy Green Tea,Beverages,Mother Dairy,72.17,500 g,N/A,90
+ITM0509,Haldiram's Besan,Staples,Haldiram's,389.19,1 pc,N/A,7
+ITM0510,Cadbury Face Wash,Personal Care,Cadbury,319.9,1 pc,N/A,2
+ITM0511,Everest Mop,Home Care,Everest,166.8,1 kg,N/A,2
+ITM0512,Tata Bread Sticks,Bakery,Tata,121.42,12 pcs,N/A,7
+ITM0513,Colgate Frozen Fries,Frozen & Instant Food,Colgate,241.03,12 pcs,N/A,180
+ITM0514,Parle Feeding Bottle,Baby Care,Parle,449.44,100 g,N/A,365
+ITM0515,Himalaya Batteries,Stationery & Electronics,Himalaya,489.93,1 kg,N/A,90
+ITM0516,MTR Pet Treats,Pet Care,MTR,117.36,500 g,N/A,90
+ITM0517,Fortune Green Chilli,Fruits & Vegetables,Fortune,66.82,2 L,N/A,90
+ITM0518,Pedigree Muesli,Dairy & Breakfast,Pedigree,171.44,1 pc,Low Fat,7
+ITM0519,Nestle Namkeen Mix,Snacks & Munchies,Nestle,10.08,1 pc,N/A,180
+ITM0520,Fortune Instant Coffee,Beverages,Fortune,25.79,6 pcs,N/A,90
+ITM0521,Britannia Chana,Staples,Britannia,567,2 L,N/A,90
+ITM0522,Britannia Toothpaste,Personal Care,Britannia,306.62,250 g,N/A,30
+ITM0523,Everest Detergent Powder,Home Care,Everest,111.51,250 g,N/A,90
+ITM0524,Britannia Bread Sticks,Bakery,Britannia,215.44,6 pcs,N/A,365
+ITM0525,Tata Frozen Nuggets,Frozen & Instant Food,Tata,150.41,500 g,N/A,30
+ITM0526,Local Brand Baby Wipes,Baby Care,Local Brand,795.47,1 pc,N/A,365
+ITM0527,Fortune Notebook,Stationery & Electronics,Fortune,585.95,6 pcs,N/A,365
+ITM0528,HUL Pet Treats,Pet Care,HUL,354.84,200 g,N/A,365
+ITM0529,HUL Apple,Fruits & Vegetables,HUL,61.18,250 g,N/A,365
+ITM0530,Himalaya Muesli,Dairy & Breakfast,Himalaya,284.5,2 L,Regular,30
+ITM0531,Local Brand Biscuits,Snacks & Munchies,Local Brand,88.51,1 kg,N/A,90
+ITM0532,Local Brand Tea Bags,Beverages,Local Brand,93.5,6 pcs,N/A,30
+ITM0533,Haldiram's Sooji,Staples,Haldiram's,111.25,250 g,N/A,7
+ITM0534,Surf Excel Razor,Personal Care,Surf Excel,228.51,100 g,N/A,180
+ITM0535,Pedigree Detergent Powder,Home Care,Pedigree,46.56,1 kg,N/A,30
+ITM0536,Britannia Cake,Bakery,Britannia,170.85,2 L,N/A,2
+ITM0537,Amul Frozen Paratha,Frozen & Instant Food,Amul,253.6,100 g,N/A,2
+ITM0538,Colgate Diapers,Baby Care,Colgate,208.78,1 kg,N/A,30
+ITM0539,Cadbury Batteries,Stationery & Electronics,Cadbury,92.46,500 g,N/A,365
+ITM0540,Surf Excel Pet Shampoo,Pet Care,Surf Excel,85.73,1 kg,N/A,365
+ITM0541,HUL Banana,Fruits & Vegetables,HUL,30.75,1 kg,N/A,7
+ITM0542,Cadbury Yogurt,Dairy & Breakfast,Cadbury,260.57,200 g,Regular,365
+ITM0543,Parle Rusk,Snacks & Munchies,Parle,52.04,2 L,N/A,30
+ITM0544,MTR Instant Coffee,Beverages,MTR,28.27,250 g,N/A,30
+ITM0545,MTR Cooking Oil,Staples,MTR,50.33,250 g,N/A,90
+ITM0546,Tata Hand Sanitizer,Personal Care,Tata,360.66,1 pc,N/A,365
+ITM0547,MTR Detergent Powder,Home Care,MTR,71.87,12 pcs,N/A,90
+ITM0548,Cadbury Bun,Bakery,Cadbury,29.79,250 g,N/A,7
+ITM0549,Parle Ice Cream,Frozen & Instant Food,Parle,194.88,100 g,N/A,365
+ITM0550,Mother Dairy Baby Wipes,Baby Care,Mother Dairy,240.94,2 L,N/A,365
+ITM0551,Amul Earphones,Stationery & Electronics,Amul,834.72,1 kg,N/A,2
+ITM0552,Surf Excel Pet Treats,Pet Care,Surf Excel,584.5,6 pcs,N/A,365
+ITM0553,Pedigree Apple,Fruits & Vegetables,Pedigree,72.78,12 pcs,N/A,365
+ITM0554,Nestle Toned Milk,Dairy & Breakfast,Nestle,224.79,1 pc,Low Fat,90
+ITM0555,Fortune Chocolate Bar,Snacks & Munchies,Fortune,113.57,200 g,N/A,2
+ITM0556,MTR Lemonade,Beverages,MTR,172.82,1 kg,N/A,90
+ITM0557,Fortune Cooking Oil,Staples,Fortune,582.9,250 g,N/A,180
+ITM0558,Dabur Shampoo,Personal Care,Dabur,119.92,500 g,N/A,90
+ITM0559,Mother Dairy Detergent Powder,Home Care,Mother Dairy,267.59,2 L,N/A,7
+ITM0560,Surf Excel Bread Sticks,Bakery,Surf Excel,106.99,200 g,N/A,7
+ITM0561,Mother Dairy Frozen Nuggets,Frozen & Instant Food,Mother Dairy,374.33,1 pc,N/A,30
+ITM0562,Cadbury Diapers,Baby Care,Cadbury,791.12,1 kg,N/A,2
+ITM0563,Cadbury Pen Set,Stationery & Electronics,Cadbury,325.57,6 pcs,N/A,2
+ITM0564,Parle Cat Food,Pet Care,Parle,471.96,200 g,N/A,30
+ITM0565,Amul Spinach,Fruits & Vegetables,Amul,69.61,12 pcs,N/A,365
+ITM0566,Haldiram's Toned Milk,Dairy & Breakfast,Haldiram's,334.72,250 g,Regular,7
+ITM0567,Surf Excel Popcorn,Snacks & Munchies,Surf Excel,78.5,250 g,N/A,7
+ITM0568,Britannia Packaged Juice,Beverages,Britannia,28.53,6 pcs,N/A,30
+ITM0569,ITC Cooking Oil,Staples,ITC,287,6 pcs,N/A,90
+ITM0570,Patanjali Hand Sanitizer,Personal Care,Patanjali,62.82,250 g,N/A,90
+ITM0571,Dabur Toilet Cleaner,Home Care,Dabur,241.91,6 pcs,N/A,2
+ITM0572,Parle Cake,Bakery,Parle,125.01,250 g,N/A,30
+ITM0573,Colgate Frozen Nuggets,Frozen & Instant Food,Colgate,182.24,12 pcs,N/A,90
+ITM0574,ITC Baby Shampoo,Baby Care,ITC,460.59,100 g,N/A,30
+ITM0575,Haldiram's LED Bulb,Stationery & Electronics,Haldiram's,117.25,100 g,N/A,365
+ITM0576,HUL Pet Treats,Pet Care,HUL,392.71,100 g,N/A,180
+ITM0577,Patanjali Grapes,Fruits & Vegetables,Patanjali,97.69,1 kg,N/A,365
+ITM0578,Pedigree Cheese Slices,Dairy & Breakfast,Pedigree,38.76,2 L,Low Fat,90
+ITM0579,Fortune Chocolate Bar,Snacks & Munchies,Fortune,57.08,200 g,N/A,365
+ITM0580,Amul Packaged Juice,Beverages,Amul,101.45,100 g,N/A,30
+ITM0581,Amul Rajma,Staples,Amul,587.71,1 kg,N/A,90
+ITM0582,ITC Shampoo,Personal Care,ITC,70.69,6 pcs,N/A,30
+ITM0583,Everest Scrub Pad,Home Care,Everest,68.12,1 kg,N/A,30
+ITM0584,Himalaya Cake,Bakery,Himalaya,135.55,2 L,N/A,30
+ITM0585,Surf Excel Momos,Frozen & Instant Food,Surf Excel,350.84,1 kg,N/A,30
+ITM0586,Patanjali Diapers,Baby Care,Patanjali,698.83,12 pcs,N/A,90
+ITM0587,Himalaya USB Cable,Stationery & Electronics,Himalaya,192.24,2 L,N/A,30
+ITM0588,Amul Dog Food,Pet Care,Amul,283.76,1 pc,N/A,180
+ITM0589,Parle Banana,Fruits & Vegetables,Parle,85.86,200 g,N/A,30
+ITM0590,Dabur Cornflakes,Dairy & Breakfast,Dabur,138.38,250 g,Regular,90
+ITM0591,Dabur Banana Chips,Snacks & Munchies,Dabur,129.37,100 g,N/A,7
+ITM0592,Amul Tea Bags,Beverages,Amul,81.68,2 L,N/A,2
+ITM0593,Parle Besan,Staples,Parle,109.41,2 L,N/A,180
+ITM0594,HUL Soap Bar,Personal Care,HUL,372.78,200 g,N/A,365
+ITM0595,Local Brand Detergent Powder,Home Care,Local Brand,260.21,500 g,N/A,365
+ITM0596,Parle Muffin,Bakery,Parle,57.46,500 g,N/A,90
+ITM0597,Fortune Frozen Nuggets,Frozen & Instant Food,Fortune,112.27,1 kg,N/A,2
+ITM0598,Nestle Baby Powder,Baby Care,Nestle,285.2,2 L,N/A,2
+ITM0599,ITC Extension Cord,Stationery & Electronics,ITC,239.02,500 g,N/A,2
+ITM0600,Dabur Cat Food,Pet Care,Dabur,180.33,250 g,N/A,30
+ITM0601,Dabur Carrot,Fruits & Vegetables,Dabur,50.6,500 g,N/A,2
+ITM0602,Local Brand Butter,Dairy & Breakfast,Local Brand,90.69,100 g,Low Fat,365
+ITM0603,Dabur Trail Mix,Snacks & Munchies,Dabur,80.59,2 L,N/A,90
+ITM0604,HUL Green Tea,Beverages,HUL,159.31,100 g,N/A,365
+ITM0605,Parle Poha,Staples,Parle,283.24,2 L,N/A,180
+ITM0606,Colgate Deodorant,Personal Care,Colgate,173.38,100 g,N/A,2
+ITM0607,Himalaya Scrub Pad,Home Care,Himalaya,278.73,2 L,N/A,2
+ITM0608,Cadbury Rusk,Bakery,Cadbury,27.86,6 pcs,N/A,180
+ITM0609,Colgate Frozen Nuggets,Frozen & Instant Food,Colgate,349.9,1 pc,N/A,2
+ITM0610,Patanjali Baby Lotion,Baby Care,Patanjali,389.92,12 pcs,N/A,30
+ITM0611,Parle Notebook,Stationery & Electronics,Parle,371.68,250 g,N/A,30
+ITM0612,Surf Excel Dog Food,Pet Care,Surf Excel,220.58,12 pcs,N/A,30
+ITM0613,Everest Grapes,Fruits & Vegetables,Everest,67.76,250 g,N/A,30
+ITM0614,Patanjali Eggs,Dairy & Breakfast,Patanjali,188.37,100 g,Low Fat,30
+ITM0615,Mother Dairy Peanuts,Snacks & Munchies,Mother Dairy,67.88,1 kg,N/A,30
+ITM0616,Cadbury Buttermilk,Beverages,Cadbury,161.25,2 L,N/A,365
+ITM0617,Colgate Besan,Staples,Colgate,119.58,2 L,N/A,7
+ITM0618,Tata Razor,Personal Care,Tata,283.66,12 pcs,N/A,30
+ITM0619,Himalaya Floor Cleaner,Home Care,Himalaya,75.71,500 g,N/A,180
+ITM0620,Patanjali Croissant,Bakery,Patanjali,157.51,100 g,N/A,365
+ITM0621,Nestle Frozen Peas,Frozen & Instant Food,Nestle,229.29,250 g,N/A,180
+ITM0622,Dabur Baby Wipes,Baby Care,Dabur,755.94,200 g,N/A,365
+ITM0623,Britannia Pen Set,Stationery & Electronics,Britannia,311.24,200 g,N/A,180
+ITM0624,Parle Pet Shampoo,Pet Care,Parle,161.27,500 g,N/A,7
+ITM0625,Pedigree Cauliflower,Fruits & Vegetables,Pedigree,62.81,250 g,N/A,90
+ITM0626,Everest Oats,Dairy & Breakfast,Everest,53.52,2 L,Regular,365
+ITM0627,Cadbury Namkeen Mix,Snacks & Munchies,Cadbury,54.06,2 L,N/A,30
+ITM0628,Parle Soda,Beverages,Parle,94.91,250 g,N/A,365
+ITM0629,Surf Excel Toor Dal,Staples,Surf Excel,434.95,250 g,N/A,2
+ITM0630,Amul Body Lotion,Personal Care,Amul,311.49,100 g,N/A,180
+ITM0631,Haldiram's Toilet Cleaner,Home Care,Haldiram's,334.45,100 g,N/A,180
+ITM0632,Surf Excel Bun,Bakery,Surf Excel,51.39,12 pcs,N/A,30
+ITM0633,Surf Excel Frozen Paratha,Frozen & Instant Food,Surf Excel,153.9,1 kg,N/A,2
+ITM0634,Dabur Baby Shampoo,Baby Care,Dabur,278.18,1 pc,N/A,7
+ITM0635,Cadbury USB Cable,Stationery & Electronics,Cadbury,575.45,250 g,N/A,30
+ITM0636,HUL Dog Food,Pet Care,HUL,357.63,2 L,N/A,30
+ITM0637,Patanjali Cabbage,Fruits & Vegetables,Patanjali,116.45,1 pc,N/A,90
+ITM0638,Himalaya Curd,Dairy & Breakfast,Himalaya,282.94,500 g,Low Fat,30
+ITM0639,Cadbury Chikki,Snacks & Munchies,Cadbury,148.14,12 pcs,N/A,2
+ITM0640,Haldiram's Instant Coffee,Beverages,Haldiram's,42.78,1 pc,N/A,180
+ITM0641,Fortune Basmati Rice,Staples,Fortune,445.12,12 pcs,N/A,90
+ITM0642,Himalaya Sunscreen,Personal Care,Himalaya,351.83,1 pc,N/A,365
+ITM0643,Surf Excel Garbage Bags,Home Care,Surf Excel,51.29,100 g,N/A,7
+ITM0644,Britannia Croissant,Bakery,Britannia,169.13,12 pcs,N/A,30
+ITM0645,Britannia Frozen Peas,Frozen & Instant Food,Britannia,168.66,6 pcs,N/A,7
+ITM0646,Cadbury Baby Powder,Baby Care,Cadbury,721.62,100 g,N/A,180
+ITM0647,Britannia Notebook,Stationery & Electronics,Britannia,284.31,200 g,N/A,180
+ITM0648,Mother Dairy Pet Treats,Pet Care,Mother Dairy,239.97,1 pc,N/A,30
+ITM0649,Amul Cauliflower,Fruits & Vegetables,Amul,91.49,1 pc,N/A,2
+ITM0650,Pedigree Toned Milk,Dairy & Breakfast,Pedigree,333.38,6 pcs,Low Fat,90
+ITM0651,Tata Trail Mix,Snacks & Munchies,Tata,71.06,1 kg,N/A,30
+ITM0652,Fortune Lemonade,Beverages,Fortune,97.61,250 g,N/A,365
+ITM0653,Local Brand Moong Dal,Staples,Local Brand,84.1,2 L,N/A,30
+ITM0654,Britannia Shampoo,Personal Care,Britannia,190.85,200 g,N/A,7
+ITM0655,ITC Detergent Powder,Home Care,ITC,193.85,6 pcs,N/A,365
+ITM0656,Amul Pastry,Bakery,Amul,35.4,100 g,N/A,2
+ITM0657,Patanjali Ready-to-eat Meal,Frozen & Instant Food,Patanjali,395.11,250 g,N/A,7
+ITM0658,Britannia Diapers,Baby Care,Britannia,501.55,500 g,N/A,90
+ITM0659,Britannia Earphones,Stationery & Electronics,Britannia,749.28,500 g,N/A,7
+ITM0660,Haldiram's Pet Shampoo,Pet Care,Haldiram's,438.68,200 g,N/A,30
+ITM0661,Mother Dairy Watermelon,Fruits & Vegetables,Mother Dairy,22.26,1 pc,N/A,7
+ITM0662,Nestle Ghee,Dairy & Breakfast,Nestle,261.56,2 L,Low Fat,180
+ITM0663,Nestle Potato Chips,Snacks & Munchies,Nestle,130.76,6 pcs,N/A,2
+ITM0664,HUL Buttermilk,Beverages,HUL,30.13,100 g,N/A,365
+ITM0665,Tata Sooji,Staples,Tata,347.03,6 pcs,N/A,180
+ITM0666,Surf Excel Hand Sanitizer,Personal Care,Surf Excel,250.26,1 kg,N/A,365
+ITM0667,Britannia Air Freshener,Home Care,Britannia,297.52,2 L,N/A,90
+ITM0668,Nestle Cake,Bakery,Nestle,173,12 pcs,N/A,180
+ITM0669,Patanjali Frozen Nuggets,Frozen & Instant Food,Patanjali,196.5,100 g,N/A,90
+ITM0670,Patanjali Baby Food,Baby Care,Patanjali,328.83,1 kg,N/A,30
+ITM0671,Patanjali LED Bulb,Stationery & Electronics,Patanjali,347.59,100 g,N/A,365
+ITM0672,Tata Dog Food,Pet Care,Tata,149.57,1 pc,N/A,180
+ITM0673,Colgate Beans,Fruits & Vegetables,Colgate,39.94,500 g,N/A,2
+ITM0674,ITC Curd,Dairy & Breakfast,ITC,272.73,100 g,Low Fat,2
+ITM0675,HUL Chikki,Snacks & Munchies,HUL,20.06,6 pcs,N/A,90
+ITM0676,Everest Energy Drink,Beverages,Everest,84.66,1 pc,N/A,90
+ITM0677,Britannia Basmati Rice,Staples,Britannia,184.27,2 L,N/A,7
+ITM0678,ITC Razor,Personal Care,ITC,272.1,1 pc,N/A,180
+ITM0679,Cadbury Garbage Bags,Home Care,Cadbury,316.69,6 pcs,N/A,365
+ITM0680,Tata Cookies,Bakery,Tata,147.85,6 pcs,N/A,30
+ITM0681,Fortune Frozen Paratha,Frozen & Instant Food,Fortune,288.66,2 L,N/A,365
+ITM0682,Haldiram's Baby Shampoo,Baby Care,Haldiram's,476.21,2 L,N/A,7
+ITM0683,Dabur Earphones,Stationery & Electronics,Dabur,489.04,250 g,N/A,2
+ITM0684,Himalaya Pet Treats,Pet Care,Himalaya,144.4,100 g,N/A,180
+ITM0685,Colgate Banana,Fruits & Vegetables,Colgate,109.53,100 g,N/A,180
+ITM0686,Nestle Curd,Dairy & Breakfast,Nestle,249.85,12 pcs,Regular,180
+ITM0687,Colgate Potato Chips,Snacks & Munchies,Colgate,110.57,12 pcs,N/A,30
+ITM0688,Himalaya Tea Bags,Beverages,Himalaya,192.25,6 pcs,N/A,90
+ITM0689,Cadbury Toor Dal,Staples,Cadbury,284.79,6 pcs,N/A,365
+ITM0690,Parle Hair Oil,Personal Care,Parle,130.96,200 g,N/A,90
+ITM0691,Parle Toilet Cleaner,Home Care,Parle,217.19,100 g,N/A,30
+ITM0692,Surf Excel Cake,Bakery,Surf Excel,154.59,1 pc,N/A,180
+ITM0693,MTR Ice Cream,Frozen & Instant Food,MTR,274.54,250 g,N/A,90
+ITM0694,Himalaya Baby Lotion,Baby Care,Himalaya,524.34,1 kg,N/A,7
+ITM0695,Patanjali Notebook,Stationery & Electronics,Patanjali,488.84,2 L,N/A,180
+ITM0696,HUL Pet Treats,Pet Care,HUL,387.98,100 g,N/A,7
+ITM0697,MTR Tomato,Fruits & Vegetables,MTR,101.88,500 g,N/A,90
+ITM0698,Patanjali Cheese Slices,Dairy & Breakfast,Patanjali,170.03,500 g,Regular,180
+ITM0699,Dabur Rusk,Snacks & Munchies,Dabur,61.55,1 kg,N/A,2
+ITM0700,ITC Lemonade,Beverages,ITC,54.74,200 g,N/A,365
+ITM0701,Dabur Salt,Staples,Dabur,171.51,1 kg,N/A,7
+ITM0702,HUL Soap Bar,Personal Care,HUL,376.29,12 pcs,N/A,180
+ITM0703,Colgate Toilet Cleaner,Home Care,Colgate,74.35,12 pcs,N/A,90
+ITM0704,Pedigree Bread Sticks,Bakery,Pedigree,112.49,200 g,N/A,365
+ITM0705,Himalaya Frozen Peas,Frozen & Instant Food,Himalaya,232.75,12 pcs,N/A,90
+ITM0706,Tata Baby Powder,Baby Care,Tata,673.62,6 pcs,N/A,2
+ITM0707,Local Brand Earphones,Stationery & Electronics,Local Brand,856.93,6 pcs,N/A,365
+ITM0708,Patanjali Pet Shampoo,Pet Care,Patanjali,107.73,1 pc,N/A,365
+ITM0709,Nestle Grapes,Fruits & Vegetables,Nestle,82.44,1 kg,N/A,90
+ITM0710,Haldiram's Ghee,Dairy & Breakfast,Haldiram's,63.82,250 g,Low Fat,7
+ITM0711,Colgate Popcorn,Snacks & Munchies,Colgate,30.42,100 g,N/A,90
+ITM0712,Pedigree Mineral Water,Beverages,Pedigree,49.38,200 g,N/A,90
+ITM0713,Dabur Poha,Staples,Dabur,390.65,250 g,N/A,7
+ITM0714,Pedigree Lip Balm,Personal Care,Pedigree,411,2 L,N/A,365
+ITM0715,Local Brand Detergent Powder,Home Care,Local Brand,232.25,1 pc,N/A,180
+ITM0716,Fortune Muffin,Bakery,Fortune,240.36,100 g,N/A,90
+ITM0717,Everest Instant Noodles,Frozen & Instant Food,Everest,182.05,250 g,N/A,90
+ITM0718,HUL Diapers,Baby Care,HUL,405.89,1 kg,N/A,30
+ITM0719,Tata LED Bulb,Stationery & Electronics,Tata,488.96,12 pcs,N/A,365
+ITM0720,Haldiram's Cat Food,Pet Care,Haldiram's,246.23,200 g,N/A,30
+ITM0721,Fortune Green Chilli,Fruits & Vegetables,Fortune,67.42,100 g,N/A,365
+ITM0722,HUL Cheese Slices,Dairy & Breakfast,HUL,250.15,250 g,Regular,30
+ITM0723,Patanjali Potato Chips,Snacks & Munchies,Patanjali,14.34,1 kg,N/A,90
+ITM0724,Cadbury Soda,Beverages,Cadbury,154.41,250 g,N/A,90
+ITM0725,HUL Besan,Staples,HUL,63.1,500 g,N/A,2
+ITM0726,Cadbury Razor,Personal Care,Cadbury,448.22,500 g,N/A,90
+ITM0727,Local Brand Dishwash Liquid,Home Care,Local Brand,296.3,6 pcs,N/A,90
+ITM0728,Local Brand Cookies,Bakery,Local Brand,180.25,12 pcs,N/A,7
+ITM0729,ITC Frozen Nuggets,Frozen & Instant Food,ITC,59.11,2 L,N/A,365
+ITM0730,Nestle Baby Food,Baby Care,Nestle,236.24,500 g,N/A,30
+ITM0731,Surf Excel Notebook,Stationery & Electronics,Surf Excel,174.41,500 g,N/A,90
+ITM0732,Haldiram's Dog Food,Pet Care,Haldiram's,479.18,1 pc,N/A,180
+ITM0733,Surf Excel Grapes,Fruits & Vegetables,Surf Excel,46.02,200 g,N/A,365
+ITM0734,Nestle Eggs,Dairy & Breakfast,Nestle,157.23,2 L,Regular,365
+ITM0735,Haldiram's Chocolate Bar,Snacks & Munchies,Haldiram's,103.44,1 kg,N/A,180
+ITM0736,Parle Instant Coffee,Beverages,Parle,45.95,100 g,N/A,90
+ITM0737,Tata Poha,Staples,Tata,412.99,100 g,N/A,365
+ITM0738,Himalaya Face Wash,Personal Care,Himalaya,247.14,12 pcs,N/A,180
+ITM0739,Patanjali Dishwash Liquid,Home Care,Patanjali,193.22,250 g,N/A,365
+ITM0740,Mother Dairy Cookies,Bakery,Mother Dairy,227.49,12 pcs,N/A,365
+ITM0741,Pedigree Momos,Frozen & Instant Food,Pedigree,129.92,1 pc,N/A,90
+ITM0742,ITC Feeding Bottle,Baby Care,ITC,492.26,500 g,N/A,30
+ITM0743,Patanjali Notebook,Stationery & Electronics,Patanjali,239.94,2 L,N/A,90
+ITM0744,Colgate Dog Food,Pet Care,Colgate,407.68,12 pcs,N/A,90
+ITM0745,Haldiram's Banana,Fruits & Vegetables,Haldiram's,63.76,1 pc,N/A,365
+ITM0746,Dabur Paneer,Dairy & Breakfast,Dabur,257.9,200 g,Regular,90
+ITM0747,Patanjali Trail Mix,Snacks & Munchies,Patanjali,50.75,12 pcs,N/A,365
+ITM0748,MTR Energy Drink,Beverages,MTR,163.77,100 g,N/A,365
+ITM0749,Nestle Moong Dal,Staples,Nestle,275.29,2 L,N/A,365
+ITM0750,MTR Hand Sanitizer,Personal Care,MTR,231.15,2 L,N/A,30
+ITM0751,Haldiram's Scrub Pad,Home Care,Haldiram's,72.84,1 pc,N/A,7
+ITM0752,Colgate Rusk,Bakery,Colgate,111.21,2 L,N/A,7
+ITM0753,Britannia Ready-to-eat Meal,Frozen & Instant Food,Britannia,332.04,1 kg,N/A,365
+ITM0754,Nestle Baby Powder,Baby Care,Nestle,502.37,500 g,N/A,90
+ITM0755,Mother Dairy Earphones,Stationery & Electronics,Mother Dairy,376.82,1 kg,N/A,90
+ITM0756,Mother Dairy Cat Food,Pet Care,Mother Dairy,340.51,200 g,N/A,365
+ITM0757,Cadbury Mango,Fruits & Vegetables,Cadbury,50.84,6 pcs,N/A,365
+ITM0758,Surf Excel Cornflakes,Dairy & Breakfast,Surf Excel,74.88,100 g,Regular,30
+ITM0759,MTR Trail Mix,Snacks & Munchies,MTR,43.43,6 pcs,N/A,30
+ITM0760,Parle Soda,Beverages,Parle,190.76,1 kg,N/A,30
+ITM0761,Surf Excel Basmati Rice,Staples,Surf Excel,592.69,1 kg,N/A,7
+ITM0762,Colgate Sunscreen,Personal Care,Colgate,62.86,12 pcs,N/A,30
+ITM0763,Surf Excel Scrub Pad,Home Care,Surf Excel,253.51,6 pcs,N/A,30
+ITM0764,MTR Croissant,Bakery,MTR,183.2,12 pcs,N/A,90
+ITM0765,Surf Excel Ice Cream,Frozen & Instant Food,Surf Excel,130.48,500 g,N/A,90
+ITM0766,Colgate Baby Wipes,Baby Care,Colgate,273.08,2 L,N/A,7
+ITM0767,ITC LED Bulb,Stationery & Electronics,ITC,778.69,2 L,N/A,90
+ITM0768,Fortune Dog Food,Pet Care,Fortune,86.31,2 L,N/A,90
+ITM0769,Fortune Green Chilli,Fruits & Vegetables,Fortune,99.78,250 g,N/A,30
+ITM0770,Haldiram's Bread,Dairy & Breakfast,Haldiram's,265.76,200 g,Regular,7
+ITM0771,Britannia Trail Mix,Snacks & Munchies,Britannia,135.01,500 g,N/A,2
+ITM0772,Patanjali Lemonade,Beverages,Patanjali,119.91,100 g,N/A,30
+ITM0773,Mother Dairy Salt,Staples,Mother Dairy,141.65,1 kg,N/A,90
+ITM0774,MTR Soap Bar,Personal Care,MTR,280.12,2 L,N/A,365
+ITM0775,Fortune Dishwash Liquid,Home Care,Fortune,277.09,200 g,N/A,30
+ITM0776,Everest Bun,Bakery,Everest,67.44,6 pcs,N/A,90
+ITM0777,Pedigree Instant Noodles,Frozen & Instant Food,Pedigree,128.85,100 g,N/A,180
+ITM0778,Colgate Baby Shampoo,Baby Care,Colgate,156.55,1 pc,N/A,180
+ITM0779,Himalaya Extension Cord,Stationery & Electronics,Himalaya,637.63,12 pcs,N/A,180
+ITM0780,Fortune Pet Shampoo,Pet Care,Fortune,419.45,6 pcs,N/A,7
+ITM0781,Mother Dairy Grapes,Fruits & Vegetables,Mother Dairy,22.61,250 g,N/A,365
+ITM0782,Haldiram's Cornflakes,Dairy & Breakfast,Haldiram's,244.49,100 g,Regular,365
+ITM0783,Britannia Popcorn,Snacks & Munchies,Britannia,121.93,200 g,N/A,2
+ITM0784,Tata Buttermilk,Beverages,Tata,83.85,6 pcs,N/A,90
+ITM0785,Fortune Besan,Staples,Fortune,185.46,1 kg,N/A,7
+ITM0786,Everest Toothpaste,Personal Care,Everest,305.12,100 g,N/A,30
+ITM0787,Tata Toilet Cleaner,Home Care,Tata,254.48,250 g,N/A,90
+ITM0788,Mother Dairy Muffin,Bakery,Mother Dairy,108.65,2 L,N/A,365
+ITM0789,Nestle Frozen Fries,Frozen & Instant Food,Nestle,308.94,250 g,N/A,365
+ITM0790,Nestle Feeding Bottle,Baby Care,Nestle,538.74,1 pc,N/A,30
+ITM0791,Cadbury Earphones,Stationery & Electronics,Cadbury,700.24,500 g,N/A,90
+ITM0792,Local Brand Pet Treats,Pet Care,Local Brand,389.85,100 g,N/A,7
+ITM0793,Tata Apple,Fruits & Vegetables,Tata,49.52,1 pc,N/A,7
+ITM0794,Himalaya Ghee,Dairy & Breakfast,Himalaya,39.61,200 g,Low Fat,180
+ITM0795,Haldiram's Rusk,Snacks & Munchies,Haldiram's,13.96,100 g,N/A,90
+ITM0796,Patanjali Tea Bags,Beverages,Patanjali,127.41,250 g,N/A,365
+ITM0797,Everest Cooking Oil,Staples,Everest,420.32,250 g,N/A,2
+ITM0798,Pedigree Sunscreen,Personal Care,Pedigree,442.3,2 L,N/A,90
+ITM0799,Tata Glass Cleaner,Home Care,Tata,291.88,200 g,N/A,180
+ITM0800,Tata Cookies,Bakery,Tata,123.78,1 kg,N/A,365
+ITM0801,Everest Ready-to-eat Meal,Frozen & Instant Food,Everest,275.11,6 pcs,N/A,90
+ITM0802,Patanjali Baby Shampoo,Baby Care,Patanjali,360.2,1 pc,N/A,180
+ITM0803,Dabur Notebook,Stationery & Electronics,Dabur,411.27,500 g,N/A,7
+ITM0804,Tata Pet Treats,Pet Care,Tata,385.67,12 pcs,N/A,2
+ITM0805,Nestle Apple,Fruits & Vegetables,Nestle,54.53,6 pcs,N/A,30
+ITM0806,Haldiram's Butter,Dairy & Breakfast,Haldiram's,289.89,500 g,Low Fat,180
+ITM0807,Himalaya Popcorn,Snacks & Munchies,Himalaya,102.52,2 L,N/A,180
+ITM0808,Amul Instant Coffee,Beverages,Amul,94.6,1 kg,N/A,90
+ITM0809,HUL Toor Dal,Staples,HUL,98.38,500 g,N/A,7
+ITM0810,Colgate Hand Sanitizer,Personal Care,Colgate,272.77,500 g,N/A,365
+ITM0811,Amul Detergent Powder,Home Care,Amul,232.65,2 L,N/A,2
+ITM0812,Haldiram's Bun,Bakery,Haldiram's,47.25,250 g,N/A,7
+ITM0813,Patanjali Frozen Peas,Frozen & Instant Food,Patanjali,190.46,250 g,N/A,2
+ITM0814,ITC Baby Shampoo,Baby Care,ITC,165.5,200 g,N/A,90
+ITM0815,HUL USB Cable,Stationery & Electronics,HUL,507.11,250 g,N/A,2
+ITM0816,Parle Dog Food,Pet Care,Parle,136.32,2 L,N/A,7
+ITM0817,ITC Banana,Fruits & Vegetables,ITC,118.03,1 pc,N/A,90
+ITM0818,Fortune Cheese Slices,Dairy & Breakfast,Fortune,53.74,2 L,Low Fat,7
+ITM0819,Surf Excel Chikki,Snacks & Munchies,Surf Excel,68.81,1 pc,N/A,30
+ITM0820,Himalaya Instant Coffee,Beverages,Himalaya,46.86,500 g,N/A,30
+ITM0821,Cadbury Chana,Staples,Cadbury,582.03,1 pc,N/A,2
+ITM0822,Himalaya Hand Sanitizer,Personal Care,Himalaya,277.12,1 pc,N/A,7
+ITM0823,Fortune Glass Cleaner,Home Care,Fortune,248.79,1 kg,N/A,90
+ITM0824,Britannia Rusk,Bakery,Britannia,76.15,250 g,N/A,2
+ITM0825,Patanjali Frozen Nuggets,Frozen & Instant Food,Patanjali,399.79,6 pcs,N/A,2
+ITM0826,Britannia Feeding Bottle,Baby Care,Britannia,571.9,1 pc,N/A,90
+ITM0827,Patanjali Notebook,Stationery & Electronics,Patanjali,541.69,6 pcs,N/A,30
+ITM0828,Cadbury Cat Food,Pet Care,Cadbury,389.03,1 pc,N/A,90
+ITM0829,MTR Banana,Fruits & Vegetables,MTR,85.02,12 pcs,N/A,90
+ITM0830,HUL Ghee,Dairy & Breakfast,HUL,52.91,2 L,Low Fat,2
+ITM0831,Pedigree Namkeen Mix,Snacks & Munchies,Pedigree,41.15,200 g,N/A,7
+ITM0832,Cadbury Buttermilk,Beverages,Cadbury,95.29,250 g,N/A,30
+ITM0833,Everest Besan,Staples,Everest,576.31,1 pc,N/A,7
+ITM0834,Nestle Sunscreen,Personal Care,Nestle,109.18,6 pcs,N/A,365
+ITM0835,Fortune Glass Cleaner,Home Care,Fortune,144.28,6 pcs,N/A,2
+ITM0836,HUL Cookies,Bakery,HUL,230.22,250 g,N/A,180
+ITM0837,Pedigree Frozen Fries,Frozen & Instant Food,Pedigree,85.27,6 pcs,N/A,30
+ITM0838,Himalaya Baby Powder,Baby Care,Himalaya,324.32,1 kg,N/A,30
+ITM0839,Mother Dairy Pen Set,Stationery & Electronics,Mother Dairy,189.49,250 g,N/A,180
+ITM0840,Patanjali Cat Food,Pet Care,Patanjali,563.91,200 g,N/A,90
+ITM0841,Colgate Carrot,Fruits & Vegetables,Colgate,83.66,6 pcs,N/A,180
+ITM0842,Local Brand Ghee,Dairy & Breakfast,Local Brand,224.42,12 pcs,Regular,2
+ITM0843,MTR Popcorn,Snacks & Munchies,MTR,19.29,1 pc,N/A,7
+ITM0844,Nestle Instant Coffee,Beverages,Nestle,118.8,2 L,N/A,90
+ITM0845,Local Brand Wheat Atta,Staples,Local Brand,500.25,12 pcs,N/A,30
+ITM0846,Fortune Lip Balm,Personal Care,Fortune,275.2,100 g,N/A,180
+ITM0847,ITC Air Freshener,Home Care,ITC,343.57,200 g,N/A,2
+ITM0848,Colgate Croissant,Bakery,Colgate,156.64,1 kg,N/A,180
+ITM0849,Nestle Instant Noodles,Frozen & Instant Food,Nestle,321.05,100 g,N/A,90
+ITM0850,ITC Baby Shampoo,Baby Care,ITC,155.65,6 pcs,N/A,30
+ITM0851,HUL LED Bulb,Stationery & Electronics,HUL,693,2 L,N/A,180
+ITM0852,Patanjali Pet Shampoo,Pet Care,Patanjali,448.65,6 pcs,N/A,2
+ITM0853,Mother Dairy Beans,Fruits & Vegetables,Mother Dairy,39.64,250 g,N/A,30
+ITM0854,MTR Bread,Dairy & Breakfast,MTR,179.13,200 g,Regular,30
+ITM0855,ITC Chocolate Bar,Snacks & Munchies,ITC,47.37,12 pcs,N/A,90
+ITM0856,Local Brand Buttermilk,Beverages,Local Brand,162.18,500 g,N/A,2
+ITM0857,Patanjali Salt,Staples,Patanjali,168.86,200 g,N/A,180
+ITM0858,MTR Lip Balm,Personal Care,MTR,51.99,1 pc,N/A,7
+ITM0859,Local Brand Garbage Bags,Home Care,Local Brand,157.71,250 g,N/A,180
+ITM0860,Haldiram's Bread Sticks,Bakery,Haldiram's,192.39,1 kg,N/A,365
+ITM0861,Parle Instant Noodles,Frozen & Instant Food,Parle,274.88,6 pcs,N/A,7
+ITM0862,Tata Feeding Bottle,Baby Care,Tata,168.28,12 pcs,N/A,90
+ITM0863,Everest Notebook,Stationery & Electronics,Everest,564.71,12 pcs,N/A,90
+ITM0864,Britannia Cat Food,Pet Care,Britannia,192.1,200 g,N/A,30
+ITM0865,Mother Dairy Apple,Fruits & Vegetables,Mother Dairy,61.4,200 g,N/A,365
+ITM0866,HUL Paneer,Dairy & Breakfast,HUL,169.96,500 g,Regular,7
+ITM0867,ITC Chocolate Bar,Snacks & Munchies,ITC,72.78,6 pcs,N/A,2
+ITM0868,Pedigree Tea Bags,Beverages,Pedigree,166.84,1 kg,N/A,365
+ITM0869,Amul Sooji,Staples,Amul,228.99,2 L,N/A,90
+ITM0870,Local Brand Shampoo,Personal Care,Local Brand,156.92,250 g,N/A,7
+ITM0871,Tata Detergent Powder,Home Care,Tata,282.08,1 pc,N/A,180
+ITM0872,HUL Croissant,Bakery,HUL,67.21,1 kg,N/A,90
+ITM0873,Everest Ready-to-eat Meal,Frozen & Instant Food,Everest,356.19,2 L,N/A,365
+ITM0874,Surf Excel Baby Wipes,Baby Care,Surf Excel,775.21,200 g,N/A,2
+ITM0875,Patanjali Earphones,Stationery & Electronics,Patanjali,369.54,100 g,N/A,30
+ITM0876,Britannia Dog Food,Pet Care,Britannia,575.67,200 g,N/A,365
+ITM0877,MTR Banana,Fruits & Vegetables,MTR,82.3,6 pcs,N/A,180
+ITM0878,HUL Cornflakes,Dairy & Breakfast,HUL,235.09,500 g,Low Fat,365
+ITM0879,HUL Popcorn,Snacks & Munchies,HUL,45.73,500 g,N/A,180
+ITM0880,Amul Lemonade,Beverages,Amul,133.84,1 kg,N/A,7
+ITM0881,Cadbury Poha,Staples,Cadbury,191.54,2 L,N/A,7
+ITM0882,Himalaya Face Wash,Personal Care,Himalaya,182.5,250 g,N/A,90
+ITM0883,Britannia Dishwash Liquid,Home Care,Britannia,99.83,250 g,N/A,7
+ITM0884,Local Brand Croissant,Bakery,Local Brand,237.11,6 pcs,N/A,30
+ITM0885,Himalaya Instant Noodles,Frozen & Instant Food,Himalaya,84.41,6 pcs,N/A,180
+ITM0886,Fortune Diapers,Baby Care,Fortune,690.14,6 pcs,N/A,2
+ITM0887,Everest Notebook,Stationery & Electronics,Everest,357.59,100 g,N/A,7
+ITM0888,Parle Cat Food,Pet Care,Parle,113.11,2 L,N/A,365
+ITM0889,Local Brand Carrot,Fruits & Vegetables,Local Brand,92.18,100 g,N/A,365
+ITM0890,Patanjali Ghee,Dairy & Breakfast,Patanjali,25.27,200 g,Low Fat,30
+ITM0891,Colgate Peanuts,Snacks & Munchies,Colgate,36.06,200 g,N/A,30
+ITM0892,Nestle Cola,Beverages,Nestle,30.24,12 pcs,N/A,30
+ITM0893,Everest Rajma,Staples,Everest,580.05,2 L,N/A,7
+ITM0894,MTR Shampoo,Personal Care,MTR,290.32,100 g,N/A,2
+ITM0895,Nestle Mop,Home Care,Nestle,63.76,200 g,N/A,90
+ITM0896,Pedigree Rusk,Bakery,Pedigree,174.56,200 g,N/A,365
+ITM0897,Parle Frozen Fries,Frozen & Instant Food,Parle,64.06,6 pcs,N/A,365
+ITM0898,Dabur Baby Lotion,Baby Care,Dabur,103.05,100 g,N/A,365
+ITM0899,Everest Earphones,Stationery & Electronics,Everest,457.62,250 g,N/A,7
+ITM0900,Nestle Dog Food,Pet Care,Nestle,121.88,2 L,N/A,365
+ITM0901,ITC Cabbage,Fruits & Vegetables,ITC,45.27,200 g,N/A,7
+ITM0902,Amul Cheese Slices,Dairy & Breakfast,Amul,204.87,1 kg,Regular,90
+ITM0903,Dabur Trail Mix,Snacks & Munchies,Dabur,87.7,1 pc,N/A,7
+ITM0904,Mother Dairy Cola,Beverages,Mother Dairy,157.07,2 L,N/A,365
+ITM0905,Himalaya Poha,Staples,Himalaya,403.66,1 kg,N/A,30
+ITM0906,Nestle Lip Balm,Personal Care,Nestle,75.03,100 g,N/A,7
+ITM0907,Nestle Scrub Pad,Home Care,Nestle,149.03,200 g,N/A,180
+ITM0908,Pedigree Muffin,Bakery,Pedigree,53.68,1 pc,N/A,180
+ITM0909,Dabur Frozen Paratha,Frozen & Instant Food,Dabur,54.55,12 pcs,N/A,30
+ITM0910,Colgate Baby Wipes,Baby Care,Colgate,668.31,250 g,N/A,180
+ITM0911,Cadbury USB Cable,Stationery & Electronics,Cadbury,150.93,12 pcs,N/A,180
+ITM0912,Parle Pet Treats,Pet Care,Parle,417.01,200 g,N/A,90
+ITM0913,Haldiram's Banana,Fruits & Vegetables,Haldiram's,26.77,200 g,N/A,2
+ITM0914,Fortune Cornflakes,Dairy & Breakfast,Fortune,68.08,200 g,Low Fat,30
+ITM0915,Tata Chikki,Snacks & Munchies,Tata,55.09,500 g,N/A,365
+ITM0916,Mother Dairy Green Tea,Beverages,Mother Dairy,185.45,12 pcs,N/A,7
+ITM0917,Surf Excel Sugar,Staples,Surf Excel,233.5,1 pc,N/A,365
+ITM0918,Surf Excel Body Lotion,Personal Care,Surf Excel,239.03,200 g,N/A,90
+ITM0919,Haldiram's Scrub Pad,Home Care,Haldiram's,191.58,250 g,N/A,2
+ITM0920,Colgate Rusk,Bakery,Colgate,43.33,12 pcs,N/A,90
+ITM0921,Britannia Frozen Paratha,Frozen & Instant Food,Britannia,77.76,100 g,N/A,180
+ITM0922,Nestle Baby Food,Baby Care,Nestle,433.96,12 pcs,N/A,7
+ITM0923,Parle USB Cable,Stationery & Electronics,Parle,694.17,200 g,N/A,365
+ITM0924,ITC Cat Food,Pet Care,ITC,579.03,250 g,N/A,90
+ITM0925,Cadbury Capsicum,Fruits & Vegetables,Cadbury,88.93,6 pcs,N/A,365
+ITM0926,Parle Paneer,Dairy & Breakfast,Parle,198.34,200 g,Low Fat,7
+ITM0927,Cadbury Peanuts,Snacks & Munchies,Cadbury,14.71,100 g,N/A,2
+ITM0928,Britannia Mineral Water,Beverages,Britannia,134.97,200 g,N/A,90
+ITM0929,Haldiram's Wheat Atta,Staples,Haldiram's,90.5,200 g,N/A,30
+ITM0930,Local Brand Hand Sanitizer,Personal Care,Local Brand,281.61,6 pcs,N/A,90
+ITM0931,Parle Detergent Powder,Home Care,Parle,339.55,500 g,N/A,90
+ITM0932,Surf Excel Pastry,Bakery,Surf Excel,26.09,1 kg,N/A,365
+ITM0933,HUL Ready-to-eat Meal,Frozen & Instant Food,HUL,139.58,12 pcs,N/A,180
+ITM0934,HUL Feeding Bottle,Baby Care,HUL,143.32,100 g,N/A,2
+ITM0935,Mother Dairy Earphones,Stationery & Electronics,Mother Dairy,92.26,200 g,N/A,365
+ITM0936,Fortune Pet Treats,Pet Care,Fortune,400.65,1 kg,N/A,30
+ITM0937,Nestle Mango,Fruits & Vegetables,Nestle,92.43,12 pcs,N/A,2
+ITM0938,Everest Curd,Dairy & Breakfast,Everest,29.05,250 g,Regular,180
+ITM0939,ITC Chocolate Bar,Snacks & Munchies,ITC,94.6,12 pcs,N/A,365
+ITM0940,Haldiram's Green Tea,Beverages,Haldiram's,172.78,12 pcs,N/A,7
+ITM0941,Nestle Besan,Staples,Nestle,193.98,2 L,N/A,2
+ITM0942,Tata Shampoo,Personal Care,Tata,196.68,200 g,N/A,90
+ITM0943,Mother Dairy Toilet Cleaner,Home Care,Mother Dairy,130.62,12 pcs,N/A,90
+ITM0944,HUL Cookies,Bakery,HUL,209.01,500 g,N/A,7
+ITM0945,Cadbury Instant Noodles,Frozen & Instant Food,Cadbury,285.16,1 kg,N/A,180
+ITM0946,Mother Dairy Diapers,Baby Care,Mother Dairy,641.69,250 g,N/A,2
+ITM0947,Fortune USB Cable,Stationery & Electronics,Fortune,63.69,200 g,N/A,30
+ITM0948,Parle Dog Food,Pet Care,Parle,265.29,1 pc,N/A,90
+ITM0949,Mother Dairy Capsicum,Fruits & Vegetables,Mother Dairy,85.03,6 pcs,N/A,30
+ITM0950,HUL Paneer,Dairy & Breakfast,HUL,215.17,12 pcs,Regular,30
+ITM0951,HUL Banana Chips,Snacks & Munchies,HUL,107.17,250 g,N/A,7
+ITM0952,Dabur Soda,Beverages,Dabur,180.69,500 g,N/A,2
+ITM0953,Surf Excel Rajma,Staples,Surf Excel,131.38,500 g,N/A,30
+ITM0954,Local Brand Razor,Personal Care,Local Brand,416.16,100 g,N/A,90
+ITM0955,Pedigree Detergent Powder,Home Care,Pedigree,128.89,200 g,N/A,365
+ITM0956,Cadbury Pastry,Bakery,Cadbury,66.62,1 pc,N/A,180
+ITM0957,Fortune Momos,Frozen & Instant Food,Fortune,380.59,1 kg,N/A,30
+ITM0958,Surf Excel Baby Shampoo,Baby Care,Surf Excel,589.04,200 g,N/A,365
+ITM0959,Amul Batteries,Stationery & Electronics,Amul,674.19,12 pcs,N/A,2
+ITM0960,MTR Pet Treats,Pet Care,MTR,439.82,100 g,N/A,90
+ITM0961,Nestle Watermelon,Fruits & Vegetables,Nestle,102.61,500 g,N/A,365
+ITM0962,Amul Cornflakes,Dairy & Breakfast,Amul,289.07,12 pcs,Low Fat,30
+ITM0963,Surf Excel Nachos,Snacks & Munchies,Surf Excel,24.11,1 kg,N/A,180
+ITM0964,ITC Green Tea,Beverages,ITC,112.01,1 kg,N/A,30
+ITM0965,Local Brand Basmati Rice,Staples,Local Brand,387.22,250 g,N/A,180
+ITM0966,Nestle Deodorant,Personal Care,Nestle,390.11,250 g,N/A,30
+ITM0967,Patanjali Phenyl,Home Care,Patanjali,164.81,1 pc,N/A,7
+ITM0968,Fortune Rusk,Bakery,Fortune,39.86,12 pcs,N/A,365
+ITM0969,Haldiram's Momos,Frozen & Instant Food,Haldiram's,246.88,12 pcs,N/A,90
+ITM0970,Pedigree Feeding Bottle,Baby Care,Pedigree,273.53,6 pcs,N/A,90
+ITM0971,Pedigree Notebook,Stationery & Electronics,Pedigree,310.43,250 g,N/A,2
+ITM0972,Mother Dairy Pet Shampoo,Pet Care,Mother Dairy,217.3,6 pcs,N/A,2
+ITM0973,Surf Excel Banana,Fruits & Vegetables,Surf Excel,107.29,500 g,N/A,30
+ITM0974,Cadbury Toned Milk,Dairy & Breakfast,Cadbury,270.88,250 g,Low Fat,365
+ITM0975,Cadbury Potato Chips,Snacks & Munchies,Cadbury,88.29,1 pc,N/A,2
+ITM0976,Britannia Cola,Beverages,Britannia,160.81,2 L,N/A,365
+ITM0977,Himalaya Toor Dal,Staples,Himalaya,51.45,100 g,N/A,90
+ITM0978,Parle Hair Oil,Personal Care,Parle,52.69,12 pcs,N/A,30
+ITM0979,Everest Glass Cleaner,Home Care,Everest,285.84,100 g,N/A,30
+ITM0980,Parle Croissant,Bakery,Parle,242.36,250 g,N/A,30
+ITM0981,Haldiram's Ice Cream,Frozen & Instant Food,Haldiram's,243.32,1 kg,N/A,90
+ITM0982,Cadbury Baby Food,Baby Care,Cadbury,678.7,500 g,N/A,365
+ITM0983,Himalaya Pen Set,Stationery & Electronics,Himalaya,520.94,250 g,N/A,180
+ITM0984,Nestle Cat Food,Pet Care,Nestle,372.75,12 pcs,N/A,180
+ITM0985,MTR Banana,Fruits & Vegetables,MTR,86.02,250 g,N/A,7
+ITM0986,Local Brand Ghee,Dairy & Breakfast,Local Brand,216.19,1 kg,Regular,365
+ITM0987,Fortune Potato Chips,Snacks & Munchies,Fortune,28.08,1 pc,N/A,365
+ITM0988,MTR Mineral Water,Beverages,MTR,156.49,500 g,N/A,365
+ITM0989,Himalaya Salt,Staples,Himalaya,359.49,500 g,N/A,2
+ITM0990,Local Brand Body Lotion,Personal Care,Local Brand,337.27,100 g,N/A,90
+ITM0991,Haldiram's Garbage Bags,Home Care,Haldiram's,251.23,12 pcs,N/A,30
+ITM0992,Pedigree Croissant,Bakery,Pedigree,182.67,200 g,N/A,365
+ITM0993,Haldiram's Momos,Frozen & Instant Food,Haldiram's,314.38,2 L,N/A,90
+ITM0994,Britannia Baby Lotion,Baby Care,Britannia,480.35,12 pcs,N/A,90
+ITM0995,Local Brand LED Bulb,Stationery & Electronics,Local Brand,125.4,12 pcs,N/A,30
+ITM0996,Fortune Pet Treats,Pet Care,Fortune,304.81,6 pcs,N/A,7
+ITM0997,Dabur Onion,Fruits & Vegetables,Dabur,65.86,12 pcs,N/A,2
+ITM0998,Amul Muesli,Dairy & Breakfast,Amul,178.88,100 g,Low Fat,180
+ITM0999,Everest Popcorn,Snacks & Munchies,Everest,41.96,6 pcs,N/A,7
+ITM1000,Tata Tea Bags,Beverages,Tata,179.98,250 g,N/A,90
